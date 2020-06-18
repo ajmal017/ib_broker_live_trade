@@ -1,0 +1,1447 @@
+00:00:15.000 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1239ms
+00:00:15.004 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":299813,"collission":false,"userId":46387139,"lastTickle":1591027214846,"iserver":{"result":{"status":"ok"}}}
+00:00:44.877 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1094ms
+00:00:44.877 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":269937,"collission":false,"userId":46387139,"lastTickle":1591027244722,"iserver":{"result":{"status":"ok"}}}
+00:01:14.819 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1036ms
+00:01:14.819 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":239998,"collission":false,"userId":46387139,"lastTickle":1591027274661,"iserver":{"result":{"status":"ok"}}}
+00:01:44.854 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1072ms
+00:01:44.854 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":209970,"collission":false,"userId":46387139,"lastTickle":1591027304689,"iserver":{"result":{"status":"ok"}}}
+00:02:14.824 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1042ms
+00:02:14.824 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":180003,"collission":false,"userId":46387139,"lastTickle":1591027334656,"iserver":{"result":{"status":"ok"}}}
+00:02:44.824 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1041ms
+00:02:44.826 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":150003,"collission":false,"userId":46387139,"lastTickle":1591027364656,"iserver":{"result":{"status":"ok"}}}
+00:03:14.850 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1067ms
+00:03:14.850 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":119978,"collission":false,"userId":46387139,"lastTickle":1591027394681,"iserver":{"result":{"status":"ok"}}}
+00:03:38.486 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/ping,200|1060ms
+00:03:38.486 INFO  vert.x-eventloop-thread-0 SsoService           : sso ping {"result": "true"}
+00:03:44.798 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1037ms
+00:03:44.798 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":90033,"collission":false,"userId":46387139,"lastTickle":1591027424626,"iserver":{"result":{"status":"ok"}}}
+00:04:14.844 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1063ms
+00:04:14.845 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":59994,"collission":false,"userId":46387139,"lastTickle":1591027454665,"iserver":{"result":{"status":"ok"}}}
+00:04:44.816 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1051ms
+00:04:44.816 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":30014,"collission":false,"userId":46387139,"lastTickle":1591027484645,"iserver":{"result":{"status":"ok"}}}
+00:05:14.801 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1020ms
+00:05:14.802 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":27,"collission":false,"userId":46387139,"lastTickle":1591027514632,"iserver":{"result":{"status":"ok"}}}
+00:05:44.827 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1049ms
+00:05:44.827 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":0,"collission":false,"userId":46387139,"lastTickle":1591027544648,"iserver":{"result":{"status":"ok"}}}
+00:06:15.713 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1941ms
+00:06:15.714 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":569134,"collission":false,"userId":46387139,"lastTickle":1591027575531,"iserver":{"result":{"status":"ok"}}}
+00:06:45.190 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1408ms
+00:06:45.191 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":539656,"collission":false,"userId":46387139,"lastTickle":1591027605009,"iserver":{"result":{"status":"ok"}}}
+00:07:14.798 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1023ms
+00:07:14.798 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":510043,"collission":false,"userId":46387139,"lastTickle":1591027634622,"iserver":{"result":{"status":"ok"}}}
+00:07:44.756 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|988ms
+00:07:44.756 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":480083,"collission":false,"userId":46387139,"lastTickle":1591027664582,"iserver":{"result":{"status":"ok"}}}
+00:08:14.930 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1158ms
+00:08:14.931 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":449914,"collission":false,"userId":46387139,"lastTickle":1591027694750,"iserver":{"result":{"status":"ok"}}}
+00:08:38.448 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/ping,200|1020ms
+00:08:38.448 INFO  vert.x-eventloop-thread-0 SsoService           : sso ping {"result": "true"}
+00:08:45.005 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1244ms
+00:08:45.006 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":419838,"collission":false,"userId":46387139,"lastTickle":1591027724827,"iserver":{"result":{"status":"ok"}}}
+00:09:14.847 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1065ms
+00:09:14.847 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":389995,"collission":false,"userId":46387139,"lastTickle":1591027754670,"iserver":{"result":{"status":"ok"}}}
+00:09:44.775 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1000ms
+00:09:44.776 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":360061,"collission":false,"userId":46387139,"lastTickle":1591027784604,"iserver":{"result":{"status":"ok"}}}
+00:10:14.830 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1048ms
+00:10:14.830 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":330011,"collission":false,"userId":46387139,"lastTickle":1591027814654,"iserver":{"result":{"status":"ok"}}}
+00:10:44.807 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1025ms
+00:10:44.807 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":300028,"collission":false,"userId":46387139,"lastTickle":1591027844637,"iserver":{"result":{"status":"ok"}}}
+00:11:14.790 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1012ms
+00:11:14.790 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":270042,"collission":false,"userId":46387139,"lastTickle":1591027874623,"iserver":{"result":{"status":"ok"}}}
+00:11:44.840 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1056ms
+00:11:44.840 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":239994,"collission":false,"userId":46387139,"lastTickle":1591027904671,"iserver":{"result":{"status":"ok"}}}
+00:12:14.838 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1067ms
+00:12:14.839 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":210007,"collission":false,"userId":46387139,"lastTickle":1591027934658,"iserver":{"result":{"status":"ok"}}}
+00:12:44.847 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1065ms
+00:12:44.848 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":179997,"collission":false,"userId":46387139,"lastTickle":1591027964668,"iserver":{"result":{"status":"ok"}}}
+00:13:14.854 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1072ms
+00:13:14.854 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":149979,"collission":false,"userId":46387139,"lastTickle":1591027994686,"iserver":{"result":{"status":"ok"}}}
+00:13:38.452 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/ping,200|1022ms
+00:13:38.452 INFO  vert.x-eventloop-thread-0 SsoService           : sso ping {"result": "true"}
+00:13:44.781 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1021ms
+00:13:44.781 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":120052,"collission":false,"userId":46387139,"lastTickle":1591028024613,"iserver":{"result":{"status":"ok"}}}
+00:14:14.801 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1017ms
+00:14:14.802 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":90037,"collission":false,"userId":46387139,"lastTickle":1591028054628,"iserver":{"result":{"status":"ok"}}}
+00:14:44.820 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1046ms
+00:14:44.820 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":60015,"collission":false,"userId":46387139,"lastTickle":1591028084650,"iserver":{"result":{"status":"ok"}}}
+00:15:14.809 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1028ms
+00:15:14.809 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":30025,"collission":false,"userId":46387139,"lastTickle":1591028114640,"iserver":{"result":{"status":"ok"}}}
+00:15:44.821 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1058ms
+00:15:44.821 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":15,"collission":false,"userId":46387139,"lastTickle":1591028144650,"iserver":{"result":{"status":"ok"}}}
+00:16:14.898 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1121ms
+00:16:14.898 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":0,"collission":false,"userId":46387139,"lastTickle":1591028174717,"iserver":{"result":{"status":"ok"}}}
+00:16:44.852 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1079ms
+00:16:44.853 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":570052,"collission":false,"userId":46387139,"lastTickle":1591028204682,"iserver":{"result":{"status":"ok"}}}
+00:17:14.870 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1095ms
+00:17:14.870 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":540046,"collission":false,"userId":46387139,"lastTickle":1591028234688,"iserver":{"result":{"status":"ok"}}}
+00:17:44.778 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1001ms
+00:17:44.779 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":510127,"collission":false,"userId":46387139,"lastTickle":1591028264607,"iserver":{"result":{"status":"ok"}}}
+00:18:14.851 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1069ms
+00:18:14.851 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":480059,"collission":false,"userId":46387139,"lastTickle":1591028294675,"iserver":{"result":{"status":"ok"}}}
+00:18:38.456 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/ping,200|1039ms
+00:18:38.456 INFO  vert.x-eventloop-thread-0 SsoService           : sso ping {"result": "true"}
+00:18:44.778 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1018ms
+00:18:44.778 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":450134,"collission":false,"userId":46387139,"lastTickle":1591028324600,"iserver":{"result":{"status":"ok"}}}
+00:19:14.847 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1065ms
+00:19:14.847 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":420070,"collission":false,"userId":46387139,"lastTickle":1591028354664,"iserver":{"result":{"status":"ok"}}}
+00:19:44.801 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1019ms
+00:19:44.801 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":390104,"collission":false,"userId":46387139,"lastTickle":1591028384630,"iserver":{"result":{"status":"ok"}}}
+00:20:14.825 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1046ms
+00:20:14.825 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":360087,"collission":false,"userId":46387139,"lastTickle":1591028414647,"iserver":{"result":{"status":"ok"}}}
+00:20:44.819 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1036ms
+00:20:44.819 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":330093,"collission":false,"userId":46387139,"lastTickle":1591028444641,"iserver":{"result":{"status":"ok"}}}
+00:21:14.862 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1080ms
+00:21:14.863 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":300052,"collission":false,"userId":46387139,"lastTickle":1591028474682,"iserver":{"result":{"status":"ok"}}}
+00:21:44.939 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1154ms
+00:21:44.939 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":269977,"collission":false,"userId":46387139,"lastTickle":1591028504757,"iserver":{"result":{"status":"ok"}}}
+00:22:14.805 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1042ms
+00:22:14.805 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":240109,"collission":false,"userId":46387139,"lastTickle":1591028534625,"iserver":{"result":{"status":"ok"}}}
+00:22:45.574 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1796ms
+00:22:45.574 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":209337,"collission":false,"userId":46387139,"lastTickle":1591028565397,"iserver":{"result":{"status":"ok"}}}
+00:23:14.855 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1078ms
+00:23:14.856 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":180062,"collission":false,"userId":46387139,"lastTickle":1591028594672,"iserver":{"result":{"status":"ok"}}}
+00:23:38.455 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/ping,200|1024ms
+00:23:38.455 INFO  vert.x-eventloop-thread-0 SsoService           : sso ping {"result": "true"}
+00:23:44.753 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|993ms
+00:23:44.753 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":150158,"collission":false,"userId":46387139,"lastTickle":1591028624576,"iserver":{"result":{"status":"ok"}}}
+00:24:15.077 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1297ms
+00:24:15.078 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":119842,"collission":false,"userId":46387139,"lastTickle":1591028654892,"iserver":{"result":{"status":"ok"}}}
+00:24:45.044 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1262ms
+00:24:45.044 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":89881,"collission":false,"userId":46387139,"lastTickle":1591028684853,"iserver":{"result":{"status":"ok"}}}
+00:25:14.952 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1179ms
+00:25:14.952 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":59969,"collission":false,"userId":46387139,"lastTickle":1591028714765,"iserver":{"result":{"status":"ok"}}}
+00:25:45.708 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1923ms
+00:25:45.708 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":29267,"collission":false,"userId":46387139,"lastTickle":1591028745467,"iserver":{"result":{"status":"ok"}}}
+00:26:15.145 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1380ms
+00:26:15.146 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":0,"collission":false,"userId":46387139,"lastTickle":1591028774961,"iserver":{"result":{"status":"ok"}}}
+00:26:44.957 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1197ms
+00:26:44.957 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":570201,"collission":false,"userId":46387139,"lastTickle":1591028804774,"iserver":{"result":{"status":"ok"}}}
+00:27:15.071 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1301ms
+00:27:15.071 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":540094,"collission":false,"userId":46387139,"lastTickle":1591028834881,"iserver":{"result":{"status":"ok"}}}
+00:27:45.215 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1434ms
+00:27:45.216 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":510004,"collission":false,"userId":46387139,"lastTickle":1591028864971,"iserver":{"result":{"status":"ok"}}}
+00:28:15.009 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1227ms
+00:28:15.010 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":480190,"collission":false,"userId":46387139,"lastTickle":1591028894785,"iserver":{"result":{"status":"ok"}}}
+00:28:38.632 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/ping,200|1209ms
+00:28:38.632 INFO  vert.x-eventloop-thread-0 SsoService           : sso ping {"result": "true"}
+00:28:45.174 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1413ms
+00:28:45.174 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":450089,"collission":false,"userId":46387139,"lastTickle":1591028924886,"iserver":{"result":{"status":"ok"}}}
+00:29:14.814 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1032ms
+00:29:14.815 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":420350,"collission":false,"userId":46387139,"lastTickle":1591028954625,"iserver":{"result":{"status":"ok"}}}
+00:29:45.023 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1241ms
+00:29:45.023 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":390215,"collission":false,"userId":46387139,"lastTickle":1591028984760,"iserver":{"result":{"status":"ok"}}}
+00:30:15.135 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1353ms
+00:30:15.136 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":360078,"collission":false,"userId":46387139,"lastTickle":1591029014897,"iserver":{"result":{"status":"ok"}}}
+00:30:45.129 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1347ms
+00:30:45.130 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":330177,"collission":false,"userId":46387139,"lastTickle":1591029044798,"iserver":{"result":{"status":"ok"}}}
+00:31:14.987 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1205ms
+00:31:14.988 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":300180,"collission":false,"userId":46387139,"lastTickle":1591029074795,"iserver":{"result":{"status":"ok"}}}
+00:31:45.150 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1383ms
+00:31:45.150 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":270065,"collission":false,"userId":46387139,"lastTickle":1591029104910,"iserver":{"result":{"status":"ok"}}}
+00:32:15.560 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1778ms
+00:32:15.560 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":239959,"collission":false,"userId":46387139,"lastTickle":1591029135016,"iserver":{"result":{"status":"ok"}}}
+00:32:45.978 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|2196ms
+00:32:45.979 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":209458,"collission":false,"userId":46387139,"lastTickle":1591029165517,"iserver":{"result":{"status":"ok"}}}
+00:33:15.164 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1382ms
+00:33:15.164 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":180096,"collission":false,"userId":46387139,"lastTickle":1591029194879,"iserver":{"result":{"status":"ok"}}}
+00:33:38.815 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/ping,200|1390ms
+00:33:38.815 INFO  vert.x-eventloop-thread-0 SsoService           : sso ping {"result": "true"}
+00:33:43.779 ERROR vert.x-eventloop-thread-0 BaseServiceProxy     : request failed Connection was closed
+io.vertx.core.VertxException: Connection was closed
+	at io.vertx.core.http.impl.ClientConnection.handleClosed(ClientConnection.java:406)
+	at io.vertx.core.impl.ContextImpl.lambda$wrapTask$2(ContextImpl.java:342)
+	at io.vertx.core.impl.ContextImpl.executeFromIO(ContextImpl.java:200)
+	at io.vertx.core.net.impl.VertxHandler.channelInactive(VertxHandler.java:134)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224)
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelInactive(CombinedChannelDuplexHandler.java:420)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:377)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:342)
+	at io.netty.handler.codec.http.HttpClientCodec$Decoder.channelInactive(HttpClientCodec.java:281)
+	at io.netty.channel.CombinedChannelDuplexHandler.channelInactive(CombinedChannelDuplexHandler.java:223)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:377)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:342)
+	at io.netty.handler.ssl.SslHandler.channelInactive(SslHandler.java:978)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelInactive(DefaultChannelPipeline.java:1354)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelInactive(DefaultChannelPipeline.java:917)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:763)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:403)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:463)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858)
+	at java.lang.Thread.run(Thread.java:748)
+00:34:15.066 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1283ms
+00:34:15.066 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":120157,"collission":false,"userId":46387139,"lastTickle":1591029254818,"iserver":{"result":{"status":"ok"}}}
+00:34:45.025 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1243ms
+00:34:45.025 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":90154,"collission":false,"userId":46387139,"lastTickle":1591029284821,"iserver":{"result":{"status":"ok"}}}
+00:35:14.931 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1149ms
+00:35:14.931 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":60251,"collission":false,"userId":46387139,"lastTickle":1591029314724,"iserver":{"result":{"status":"ok"}}}
+00:35:45.080 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1316ms
+00:35:45.080 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":30139,"collission":false,"userId":46387139,"lastTickle":1591029344836,"iserver":{"result":{"status":"ok"}}}
+00:36:15.189 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1408ms
+00:36:15.189 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":37,"collission":false,"userId":46387139,"lastTickle":1591029374938,"iserver":{"result":{"status":"ok"}}}
+00:36:44.987 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1222ms
+00:36:44.988 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":0,"collission":false,"userId":46387139,"lastTickle":1591029404728,"iserver":{"result":{"status":"ok"}}}
+00:37:14.967 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1192ms
+00:37:14.967 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":570053,"collission":false,"userId":46387139,"lastTickle":1591029434691,"iserver":{"result":{"status":"ok"}}}
+00:37:45.202 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1420ms
+00:37:45.202 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":539796,"collission":false,"userId":46387139,"lastTickle":1591029464948,"iserver":{"result":{"status":"ok"}}}
+00:38:15.002 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1220ms
+00:38:15.002 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":509993,"collission":false,"userId":46387139,"lastTickle":1591029494751,"iserver":{"result":{"status":"ok"}}}
+00:38:38.589 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/ping,200|1167ms
+00:38:38.589 INFO  vert.x-eventloop-thread-0 SsoService           : sso ping {"result": "true"}
+00:38:45.074 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1313ms
+00:38:45.074 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":479892,"collission":false,"userId":46387139,"lastTickle":1591029524852,"iserver":{"result":{"status":"ok"}}}
+00:39:14.910 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1148ms
+00:39:14.910 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":450086,"collission":false,"userId":46387139,"lastTickle":1591029554658,"iserver":{"result":{"status":"ok"}}}
+00:39:45.016 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1232ms
+00:39:45.017 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":419993,"collission":false,"userId":46387139,"lastTickle":1591029584751,"iserver":{"result":{"status":"ok"}}}
+00:40:14.971 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1187ms
+00:40:14.971 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":389984,"collission":false,"userId":46387139,"lastTickle":1591029614760,"iserver":{"result":{"status":"ok"}}}
+00:40:45.231 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1447ms
+00:40:45.231 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":359769,"collission":false,"userId":46387139,"lastTickle":1591029644975,"iserver":{"result":{"status":"ok"}}}
+00:41:14.980 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1198ms
+00:41:14.981 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":329983,"collission":false,"userId":46387139,"lastTickle":1591029674761,"iserver":{"result":{"status":"ok"}}}
+00:41:45.091 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1307ms
+00:41:45.092 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":299865,"collission":false,"userId":46387139,"lastTickle":1591029704879,"iserver":{"result":{"status":"ok"}}}
+00:42:15.229 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1447ms
+00:42:15.230 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":269802,"collission":false,"userId":46387139,"lastTickle":1591029734942,"iserver":{"result":{"status":"ok"}}}
+00:42:45.021 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1238ms
+00:42:45.021 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":239959,"collission":false,"userId":46387139,"lastTickle":1591029764785,"iserver":{"result":{"status":"ok"}}}
+00:43:15.071 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1287ms
+00:43:15.072 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":209858,"collission":false,"userId":46387139,"lastTickle":1591029794886,"iserver":{"result":{"status":"ok"}}}
+00:43:38.769 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/ping,200|1343ms
+00:43:38.769 INFO  vert.x-eventloop-thread-0 SsoService           : sso ping {"result": "true"}
+00:43:45.221 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1460ms
+00:43:45.221 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":179752,"collission":false,"userId":46387139,"lastTickle":1591029824992,"iserver":{"result":{"status":"ok"}}}
+00:44:15.014 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1232ms
+00:44:15.014 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":149990,"collission":false,"userId":46387139,"lastTickle":1591029854754,"iserver":{"result":{"status":"ok"}}}
+00:44:45.113 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1331ms
+00:44:45.113 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":119847,"collission":false,"userId":46387139,"lastTickle":1591029884897,"iserver":{"result":{"status":"ok"}}}
+00:45:14.806 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1025ms
+00:45:14.807 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":90105,"collission":false,"userId":46387139,"lastTickle":1591029914639,"iserver":{"result":{"status":"ok"}}}
+00:45:44.907 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1145ms
+00:45:44.908 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":60047,"collission":false,"userId":46387139,"lastTickle":1591029944697,"iserver":{"result":{"status":"ok"}}}
+00:46:15.111 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1328ms
+00:46:15.112 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":29838,"collission":false,"userId":46387139,"lastTickle":1591029974906,"iserver":{"result":{"status":"ok"}}}
+00:46:45.211 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1440ms
+00:46:45.211 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":0,"collission":false,"userId":46387139,"lastTickle":1591030005013,"iserver":{"result":{"status":"ok"}}}
+00:47:14.972 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1193ms
+00:47:14.973 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":570220,"collission":false,"userId":46387139,"lastTickle":1591030034810,"iserver":{"result":{"status":"ok"}}}
+00:47:45.112 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1333ms
+00:47:45.112 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":540110,"collission":false,"userId":46387139,"lastTickle":1591030064920,"iserver":{"result":{"status":"ok"}}}
+00:48:15.210 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1428ms
+00:48:15.211 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":510007,"collission":false,"userId":46387139,"lastTickle":1591030095023,"iserver":{"result":{"status":"ok"}}}
+00:48:38.865 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/ping,200|1435ms
+00:48:38.865 INFO  vert.x-eventloop-thread-0 SsoService           : sso ping {"result": "true"}
+00:48:43.809 ERROR vert.x-eventloop-thread-0 BaseServiceProxy     : request failed Connection was closed
+io.vertx.core.VertxException: Connection was closed
+	at io.vertx.core.http.impl.ClientConnection.handleClosed(ClientConnection.java:406)
+	at io.vertx.core.impl.ContextImpl.lambda$wrapTask$2(ContextImpl.java:342)
+	at io.vertx.core.impl.ContextImpl.executeFromIO(ContextImpl.java:200)
+	at io.vertx.core.net.impl.VertxHandler.channelInactive(VertxHandler.java:134)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224)
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelInactive(CombinedChannelDuplexHandler.java:420)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:377)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:342)
+	at io.netty.handler.codec.http.HttpClientCodec$Decoder.channelInactive(HttpClientCodec.java:281)
+	at io.netty.channel.CombinedChannelDuplexHandler.channelInactive(CombinedChannelDuplexHandler.java:223)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:377)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:342)
+	at io.netty.handler.ssl.SslHandler.channelInactive(SslHandler.java:978)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelInactive(DefaultChannelPipeline.java:1354)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelInactive(DefaultChannelPipeline.java:917)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:763)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:403)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:463)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858)
+	at java.lang.Thread.run(Thread.java:748)
+00:49:14.974 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1184ms
+00:49:14.974 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":450312,"collission":false,"userId":46387139,"lastTickle":1591030154718,"iserver":{"result":{"status":"ok"}}}
+00:49:45.212 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1430ms
+00:49:45.212 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":419988,"collission":false,"userId":46387139,"lastTickle":1591030185042,"iserver":{"result":{"status":"ok"}}}
+00:50:16.546 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|2762ms
+00:50:16.546 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":388750,"collission":false,"userId":46387139,"lastTickle":1591030216280,"iserver":{"result":{"status":"ok"}}}
+00:50:45.113 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1331ms
+00:50:45.114 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":360076,"collission":false,"userId":46387139,"lastTickle":1591030244954,"iserver":{"result":{"status":"ok"}}}
+00:51:14.769 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|999ms
+00:51:14.769 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":330380,"collission":false,"userId":46387139,"lastTickle":1591030274650,"iserver":{"result":{"status":"ok"}}}
+00:51:45.122 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1340ms
+00:51:45.122 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":300037,"collission":false,"userId":46387139,"lastTickle":1591030304993,"iserver":{"result":{"status":"ok"}}}
+00:52:15.030 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1246ms
+00:52:15.031 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":270218,"collission":false,"userId":46387139,"lastTickle":1591030334812,"iserver":{"result":{"status":"ok"}}}
+00:52:45.092 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1324ms
+00:52:45.093 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":240051,"collission":false,"userId":46387139,"lastTickle":1591030364979,"iserver":{"result":{"status":"ok"}}}
+00:53:14.880 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1100ms
+00:53:14.880 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":210268,"collission":false,"userId":46387139,"lastTickle":1591030394762,"iserver":{"result":{"status":"ok"}}}
+00:53:38.891 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/ping,200|1468ms
+00:53:38.892 INFO  vert.x-eventloop-thread-0 SsoService           : sso ping {"result": "true"}
+00:53:43.801 ERROR vert.x-eventloop-thread-0 BaseServiceProxy     : request failed Connection was closed
+io.vertx.core.VertxException: Connection was closed
+	at io.vertx.core.http.impl.ClientConnection.handleClosed(ClientConnection.java:406)
+	at io.vertx.core.impl.ContextImpl.lambda$wrapTask$2(ContextImpl.java:342)
+	at io.vertx.core.impl.ContextImpl.executeFromIO(ContextImpl.java:200)
+	at io.vertx.core.net.impl.VertxHandler.channelInactive(VertxHandler.java:134)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224)
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelInactive(CombinedChannelDuplexHandler.java:420)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:377)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:342)
+	at io.netty.handler.codec.http.HttpClientCodec$Decoder.channelInactive(HttpClientCodec.java:281)
+	at io.netty.channel.CombinedChannelDuplexHandler.channelInactive(CombinedChannelDuplexHandler.java:223)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:377)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:342)
+	at io.netty.handler.ssl.SslHandler.channelInactive(SslHandler.java:978)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelInactive(DefaultChannelPipeline.java:1354)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelInactive(DefaultChannelPipeline.java:917)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:763)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:403)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:463)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858)
+	at java.lang.Thread.run(Thread.java:748)
+00:54:15.145 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1359ms
+00:54:15.145 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":150043,"collission":false,"userId":46387139,"lastTickle":1591030454987,"iserver":{"result":{"status":"ok"}}}
+00:54:46.165 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|2396ms
+00:54:46.165 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":119194,"collission":false,"userId":46387139,"lastTickle":1591030485836,"iserver":{"result":{"status":"ok"}}}
+00:55:14.991 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1209ms
+00:55:14.992 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":90149,"collission":false,"userId":46387139,"lastTickle":1591030514881,"iserver":{"result":{"status":"ok"}}}
+00:55:45.146 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1379ms
+00:55:45.146 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":60030,"collission":false,"userId":46387139,"lastTickle":1591030545000,"iserver":{"result":{"status":"ok"}}}
+00:56:15.248 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1464ms
+00:56:15.248 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":29923,"collission":false,"userId":46387139,"lastTickle":1591030575107,"iserver":{"result":{"status":"ok"}}}
+00:56:44.825 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1061ms
+00:56:44.825 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":316,"collission":false,"userId":46387139,"lastTickle":1591030604714,"iserver":{"result":{"status":"ok"}}}
+00:57:15.113 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1329ms
+00:57:15.113 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":0,"collission":false,"userId":46387139,"lastTickle":1591030635004,"iserver":{"result":{"status":"ok"}}}
+00:57:45.257 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1475ms
+00:57:45.257 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":569908,"collission":false,"userId":46387139,"lastTickle":1591030665111,"iserver":{"result":{"status":"ok"}}}
+00:58:15.054 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1282ms
+00:58:15.055 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":540110,"collission":false,"userId":46387139,"lastTickle":1591030694909,"iserver":{"result":{"status":"ok"}}}
+00:58:38.678 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/ping,200|1254ms
+00:58:38.678 INFO  vert.x-eventloop-thread-0 SsoService           : sso ping {"result": "true"}
+00:58:43.770 ERROR vert.x-eventloop-thread-0 BaseServiceProxy     : request failed Connection was closed
+io.vertx.core.VertxException: Connection was closed
+	at io.vertx.core.http.impl.ClientConnection.handleClosed(ClientConnection.java:406)
+	at io.vertx.core.impl.ContextImpl.lambda$wrapTask$2(ContextImpl.java:342)
+	at io.vertx.core.impl.ContextImpl.executeFromIO(ContextImpl.java:200)
+	at io.vertx.core.net.impl.VertxHandler.channelInactive(VertxHandler.java:134)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224)
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelInactive(CombinedChannelDuplexHandler.java:420)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:377)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:342)
+	at io.netty.handler.codec.http.HttpClientCodec$Decoder.channelInactive(HttpClientCodec.java:281)
+	at io.netty.channel.CombinedChannelDuplexHandler.channelInactive(CombinedChannelDuplexHandler.java:223)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:377)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:342)
+	at io.netty.handler.ssl.SslHandler.channelInactive(SslHandler.java:978)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelInactive(DefaultChannelPipeline.java:1354)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelInactive(DefaultChannelPipeline.java:917)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:763)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:403)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:463)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858)
+	at java.lang.Thread.run(Thread.java:748)
+00:59:15.571 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1786ms
+00:59:15.571 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":479744,"collission":false,"userId":46387139,"lastTickle":1591030755275,"iserver":{"result":{"status":"ok"}}}
+00:59:45.062 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1301ms
+00:59:45.062 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":450092,"collission":false,"userId":46387139,"lastTickle":1591030784927,"iserver":{"result":{"status":"ok"}}}
+01:00:15.167 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1384ms
+01:00:15.167 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":420008,"collission":false,"userId":46387139,"lastTickle":1591030815011,"iserver":{"result":{"status":"ok"}}}
+01:00:44.811 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1048ms
+01:00:44.811 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":390303,"collission":false,"userId":46387139,"lastTickle":1591030844716,"iserver":{"result":{"status":"ok"}}}
+01:01:14.847 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1070ms
+01:01:14.847 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":360273,"collission":false,"userId":46387139,"lastTickle":1591030874746,"iserver":{"result":{"status":"ok"}}}
+01:01:44.853 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1089ms
+01:01:44.854 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":330265,"collission":false,"userId":46387139,"lastTickle":1591030904754,"iserver":{"result":{"status":"ok"}}}
+01:02:14.808 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1022ms
+01:02:14.808 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":300303,"collission":false,"userId":46387139,"lastTickle":1591030934716,"iserver":{"result":{"status":"ok"}}}
+01:02:44.859 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1095ms
+01:02:44.859 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":270251,"collission":false,"userId":46387139,"lastTickle":1591030964768,"iserver":{"result":{"status":"ok"}}}
+01:03:13.763 ERROR vert.x-eventloop-thread-0 BaseServiceProxy     : request failed api.ibkr.com: Name or service not known
+java.net.UnknownHostException: api.ibkr.com: Name or service not known
+	at java.net.Inet4AddressImpl.lookupAllHostAddr(Native Method)
+	at java.net.InetAddress$2.lookupAllHostAddr(InetAddress.java:929)
+	at java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1324)
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1277)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at java.net.InetAddress.getByName(InetAddress.java:1077)
+	at io.netty.util.internal.SocketUtils$8.run(SocketUtils.java:146)
+	at io.netty.util.internal.SocketUtils$8.run(SocketUtils.java:143)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at io.netty.util.internal.SocketUtils.addressByName(SocketUtils.java:143)
+	at io.netty.resolver.DefaultNameResolver.doResolve(DefaultNameResolver.java:43)
+	at io.netty.resolver.SimpleNameResolver.resolve(SimpleNameResolver.java:63)
+	at io.netty.resolver.SimpleNameResolver.resolve(SimpleNameResolver.java:55)
+	at io.netty.resolver.InetSocketAddressResolver.doResolve(InetSocketAddressResolver.java:57)
+	at io.netty.resolver.InetSocketAddressResolver.doResolve(InetSocketAddressResolver.java:32)
+	at io.netty.resolver.AbstractAddressResolver.resolve(AbstractAddressResolver.java:108)
+	at io.netty.bootstrap.Bootstrap.doResolveAndConnect0(Bootstrap.java:208)
+	at io.netty.bootstrap.Bootstrap.doResolveAndConnect(Bootstrap.java:170)
+	at io.netty.bootstrap.Bootstrap.connect(Bootstrap.java:145)
+	at io.vertx.core.net.impl.ChannelProvider.connect(ChannelProvider.java:38)
+	at io.vertx.core.http.impl.ConnectionManager$ChannelConnector.connect(ConnectionManager.java:537)
+	at io.vertx.core.http.impl.ConnectionManager$ConnQueue.createNewConnection(ConnectionManager.java:294)
+	at io.vertx.core.http.impl.ConnectionManager$ConnQueue.getConnection(ConnectionManager.java:237)
+	at io.vertx.core.http.impl.ConnectionManager.getConnectionForRequest(ConnectionManager.java:171)
+	at io.vertx.core.http.impl.HttpClientImpl.getConnectionForRequest(HttpClientImpl.java:950)
+	at io.vertx.core.http.impl.HttpClientRequestImpl.connect(HttpClientRequestImpl.java:745)
+	at io.vertx.core.http.impl.HttpClientRequestImpl.write(HttpClientRequestImpl.java:867)
+	at io.vertx.core.http.impl.HttpClientRequestImpl.end(HttpClientRequestImpl.java:358)
+	at ibgroup.web.core.clientportal.gw.services.ClientPortalService.tickleSession(ClientPortalService.java:202)
+	at ibgroup.web.core.clientportal.gw.services.ClientPortalService.onTimerEvent(ClientPortalService.java:88)
+	at io.vertx.core.impl.VertxImpl$InternalTimerHandler.handle(VertxImpl.java:870)
+	at io.vertx.core.impl.VertxImpl$InternalTimerHandler.handle(VertxImpl.java:829)
+	at io.vertx.core.impl.ContextImpl.lambda$wrapTask$2(ContextImpl.java:344)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:403)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:463)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858)
+	at java.lang.Thread.run(Thread.java:748)
+01:04:09.791 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/ping,200|1374ms
+01:04:09.791 INFO  vert.x-eventloop-thread-0 SsoService           : sso ping {"result": "true"}
+01:04:15.843 ERROR vert.x-eventloop-thread-0 BaseServiceProxy     : request failed Connection was closed
+io.vertx.core.VertxException: Connection was closed
+	at io.vertx.core.http.impl.ClientConnection.handleClosed(ClientConnection.java:406)
+	at io.vertx.core.impl.ContextImpl.lambda$wrapTask$2(ContextImpl.java:342)
+	at io.vertx.core.impl.ContextImpl.executeFromIO(ContextImpl.java:200)
+	at io.vertx.core.net.impl.VertxHandler.channelInactive(VertxHandler.java:134)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224)
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelInactive(CombinedChannelDuplexHandler.java:420)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:377)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:342)
+	at io.netty.handler.codec.http.HttpClientCodec$Decoder.channelInactive(HttpClientCodec.java:281)
+	at io.netty.channel.CombinedChannelDuplexHandler.channelInactive(CombinedChannelDuplexHandler.java:223)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:377)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:342)
+	at io.netty.handler.ssl.SslHandler.channelInactive(SslHandler.java:978)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelInactive(DefaultChannelPipeline.java:1354)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelInactive(DefaultChannelPipeline.java:917)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:763)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:403)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:463)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858)
+	at java.lang.Thread.run(Thread.java:748)
+01:19:01.774 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,401|1307ms
+01:19:01.775 WARN  vert.x-eventloop-thread-0 BaseServiceProxy     : failed /v1/api/tickle | reason Access Denied
+01:19:01.775 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle null
+01:19:01.776 ERROR vert.x-eventloop-thread-0 ClientPortalService  : tickle cp session failed {}
+io.vertx.core.impl.NoStackTraceThrowable: Access Denied
+01:19:01.776 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : cancel timer ClientPortalService 11
+01:19:01.776 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : forward event ON_CP_TICKLE_FAILED, payload none
+01:19:05.435 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/sso/validate?gw=1,200|3659ms
+01:19:05.436 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : portal validate response: {"SFT":"4.2","LOGIN_TYPE":1,"IS_PENDING_APPLICANT":false,"SF_ENABLED":true,"AUTH_TIME":1591021615414,"CREDENTIAL":"phav1989","SF_CONFIG":"4.2","USER_NAME":"phav1989","CREDENTIAL_TYPE":0,"RESULT":true,"IS_FREE_TRIAL":false,"IP":"116.14.238.9","USER_ID":46387139,"EXPIRES":1591031945794,"TOKEN":"dfac72afe83cdda85772ae60d1db09dffbcd85ac"}
+01:19:05.436 INFO  vert.x-eventloop-thread-0 GatewayHttpProxy     : authenticated to cp
+01:19:05.437 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : cancel timer SsoService 9
+01:19:05.437 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : start timer 300000 SsoService
+01:19:05.758 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/one/user,200|322ms
+01:19:05.758 INFO  vert.x-eventloop-thread-0 ClientPortalService  : get user reply {"ispaper":false,"islite":false,"has2fa":true,"username":"phav1989","features":{"env":"PROD","wlms":true,"realtime":true,"bond":true,"optionChains":true,"calendar":true,"aQA":true,"newMf":true},"applicants":[{"id":5246201,"type":"INDIVIDUAL","entityId":112074642,"businessType":"INDEPENDENT","legalCountry":{"name":"Singapore","alpha3":"SGP"},"nlcode":"en"}],"uar":{"portfolioAnalyst":true,"userInfo":true,"messageCenter":true,"accountDetails":true,"tradingRestrictions":false,"tws":true,"fyi":true,"voting":true,"forum":true,"recentTransactions":true},"accts":{"U3818550":{"clearingStatus":"O","openDate":1579410000000,"isFunded":true,"tradingPermissions":["FUND","IOPT","BILL","WAR","STK","BOND","CASH"],"isFAClient":false},"U3818550F":{"clearingStatus":"O","openDate":1588651200000,"isFunded":true,"tradingPermissions":["CFD","CMDTY"],"isFAClient":false}},"props":{"readOnlySession":null,"isIBAMClient":false},"firstApprovedDate":1579582800000}
+01:19:06.228 INFO  vert.x-eventloop-thread-0 SsoService           : sso init status=200, url=https://api.ibkr.com/sso/AuthenticateSSODH?ACTION=INIT
+01:19:06.229 DEBUG vert.x-eventloop-thread-0 SsoService           : sso init reponse: <ib_auth_res>
+<dh_params>
+<hash>SHA-1</hash>
+<p>959ade91c5ba7386c64ef71e06f68f72522bd45210d9999d51fa0f105cdbd4c6d7f5bf13e2e3f46e7b3fbcf41897b0dd9cdd3f51c5a8ec1c74cf58facc80dd45</p>
+<g>e79d337facc9a2c7cbd20e8755601c5c4694a993c3e2d1835aec2d7745bdc4c4bfd129fdca2fd67e8aab820d745bedda2f57287d556d1dc5436ec76621ad139f</g>
+<A>4aa23d703d05fc459449723ee5c00a4b3cbd7685e6752973d476320ef8e61f0687b6d2422ddc188aa986188241352b06c0fa08c94b705ce74f7e9c9ba08d166c</A>
+<challenge>6fc2bfae3c4dabd00dd5cbc45315302d165e78fe</challenge>
+<info></info>
+</dh_params>
+</ib_auth_res>
+
+01:19:06.229 DEBUG vert.x-eventloop-thread-0 SsoService           : p 959ade91c5ba7386c64ef71e06f68f72522bd45210d9999d51fa0f105cdbd4c6d7f5bf13e2e3f46e7b3fbcf41897b0dd9cdd3f51c5a8ec1c74cf58facc80dd45
+01:19:06.230 DEBUG vert.x-eventloop-thread-0 SsoService           : K 35e62932822f885815e1d51c25e724fd4f2e9b8e
+01:19:06.230 DEBUG vert.x-eventloop-thread-0 SsoService           : chlRes f90dd1cd10f206e10a4c2e8a350ddc027c0148a5
+01:19:06.230 DEBUG vert.x-eventloop-thread-0 SsoService           : B 14ea2e8e11ec54ffc7714017ad21f4342bcaf7ebcb9ecd4b007a7567cb7193cc5761da4589aac8fbfdea71383c27a5e422c85ac37094323706618b807859855a
+01:19:06.507 INFO  vert.x-eventloop-thread-0 SsoService           : sso complete url status=200, url=https://api.ibkr.com/sso/AuthenticateSSODH?ACTION=COMPLETE&B=14ea2e8e11ec54ffc7714017ad21f4342bcaf7ebcb9ecd4b007a7567cb7193cc5761da4589aac8fbfdea71383c27a5e422c85ac37094323706618b807859855a&CHRESPONSE=f90dd1cd10f206e10a4c2e8a350ddc027c0148a5
+01:19:06.507 DEBUG vert.x-eventloop-thread-0 SsoService           : challenge reply:
+<ib_auth_res>
+<dh_params>
+<enc>AES</enc>
+<einfo>-7e9ba3caa40578319cf72fa67b0910b1</einfo>
+<info></info>
+</dh_params>
+</ib_auth_res>
+
+01:19:06.507 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : forward event ON_SSODH_COMPLETED, payload none
+01:19:06.507 DEBUG vert.x-eventloop-thread-0 GatewayHttpProxy     : delaying authentication for 3000
+01:19:09.768 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/iserver/auth/status,200|260ms
+01:19:09.768 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : status {"authenticated":false,"competing":false,"connected":false,"MAC":"98:F2:B3:23:CF:10"}
+01:19:09.769 INFO  vert.x-eventloop-thread-0 ClientPortalService  : process auth status {"authenticated":false,"competing":false,"connected":false,"MAC":"98:F2:B3:23:CF:10"}
+01:19:09.770 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : auth brokerage, k=35e62932822f885815e1d51c25e724fd4f2e9b8e, post={"username":"phav1989","machineId":"337e9533","compete":true}
+01:19:10.677 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> POST https://api.ibkr.com/v1/api/iserver/auth/ssodh/init,200|907ms
+01:19:10.678 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : iserver init : {"challenge":"b7e2670d5e0445feae91074677d8b69dcf7860eb"}
+01:19:10.678 INFO  vert.x-eventloop-thread-0 ClientPortalService  : sending sso dh response, k=05dd3f1d4500683c02579a32067a2ced7f7fe98b
+01:19:11.240 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> POST https://api.ibkr.com/v1/api/iserver/auth/ssodh/response,200|562ms
+01:19:11.240 INFO  vert.x-eventloop-thread-0 ClientPortalService  : server sso dh response {"passed":true,"authenticated":true,"connected":true,"competing":false}
+01:19:11.241 INFO  vert.x-eventloop-thread-0 ClientPortalService  : process auth status {"passed":true,"authenticated":true,"connected":true,"competing":false}
+01:19:11.241 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : start timer 30000 ClientPortalService
+01:19:11.500 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/iserver/accounts,200|259ms
+01:19:11.500 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : iserver accounts {"accounts":[],"acctProps":{},"aliases":{},"chartPeriods":null,"selectedAccount":null,"tradingPermissions":{},"allowFeatures":{"showGFIS":false,"snapshotRefreshTimeout":0,"liteUser":false,"showWebNews":false,"research":false,"showTaxOpt":false},"serverInfo":{}}
+01:19:42.607 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1341ms
+01:19:42.608 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":562845,"collission":false,"userId":46387139,"lastTickle":1591031982950,"iserver":{"result":{"status":"ok"}}}
+01:20:12.783 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1518ms
+01:20:12.783 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":532754,"collission":false,"userId":46387139,"lastTickle":1591032013041,"iserver":{"result":{"status":"ok"}}}
+01:20:42.991 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1728ms
+01:20:42.991 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":502442,"collission":false,"userId":46387139,"lastTickle":1591032043353,"iserver":{"result":{"status":"ok"}}}
+01:21:12.775 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1531ms
+01:21:12.776 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":472663,"collission":false,"userId":46387139,"lastTickle":1591032073132,"iserver":{"result":{"status":"ok"}}}
+01:21:42.487 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1235ms
+01:21:42.488 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":443085,"collission":false,"userId":46387139,"lastTickle":1591032102710,"iserver":{"result":{"status":"ok"}}}
+01:22:12.592 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1340ms
+01:22:12.592 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":412924,"collission":false,"userId":46387139,"lastTickle":1591032132871,"iserver":{"result":{"status":"ok"}}}
+01:22:42.656 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1391ms
+01:22:42.656 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":382771,"collission":false,"userId":46387139,"lastTickle":1591032163024,"iserver":{"result":{"status":"ok"}}}
+01:23:12.496 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1251ms
+01:23:12.496 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":352972,"collission":false,"userId":46387139,"lastTickle":1591032192823,"iserver":{"result":{"status":"ok"}}}
+01:23:42.599 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1346ms
+01:23:42.599 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":322872,"collission":false,"userId":46387139,"lastTickle":1591032222923,"iserver":{"result":{"status":"ok"}}}
+01:24:06.871 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/ping,200|1420ms
+01:24:06.871 INFO  vert.x-eventloop-thread-0 SsoService           : sso ping {"result": "true"}
+01:24:11.511 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|265ms
+01:24:11.512 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":293912,"collission":false,"userId":46387139,"lastTickle":1591032251883,"iserver":{"result":{"status":"ok"}}}
+01:24:42.505 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1254ms
+01:24:42.505 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":262973,"collission":false,"userId":46387139,"lastTickle":1591032282822,"iserver":{"result":{"status":"ok"}}}
+01:25:12.304 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1038ms
+01:25:12.304 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":233141,"collission":false,"userId":46387139,"lastTickle":1591032312654,"iserver":{"result":{"status":"ok"}}}
+01:25:42.362 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1109ms
+01:25:42.363 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":203068,"collission":false,"userId":46387139,"lastTickle":1591032342727,"iserver":{"result":{"status":"ok"}}}
+01:26:13.145 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1881ms
+01:26:13.145 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":172357,"collission":false,"userId":46387139,"lastTickle":1591032373438,"iserver":{"result":{"status":"ok"}}}
+01:26:42.621 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1368ms
+01:26:42.621 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":142904,"collission":false,"userId":46387139,"lastTickle":1591032402891,"iserver":{"result":{"status":"ok"}}}
+01:26:51.228 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/auth/status,200|1339ms
+01:26:51.228 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=275008778.20480.0000; path=/; Httponly]
+01:26:51.228 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=275008778.20480.0000; path=/; Httponly] -> 
+01:26:51.728 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/account/U3818550/order,400|474ms
+01:27:12.419 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1158ms
+01:27:12.420 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":113193,"collission":false,"userId":46387139,"lastTickle":1591032432602,"iserver":{"result":{"status":"ok"}}}
+01:27:42.525 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1271ms
+01:27:42.526 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":82937,"collission":false,"userId":46387139,"lastTickle":1591032462858,"iserver":{"result":{"status":"ok"}}}
+01:28:12.632 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1379ms
+01:28:12.632 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":52838,"collission":false,"userId":46387139,"lastTickle":1591032492957,"iserver":{"result":{"status":"ok"}}}
+01:28:45.651 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1065ms
+01:28:45.651 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":18805,"collission":false,"userId":46387139,"lastTickle":1591032526990,"iserver":{"result":{"status":"ok"}}}
+01:29:10.029 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/ping,200|1234ms
+01:29:10.030 INFO  vert.x-eventloop-thread-0 SsoService           : sso ping {"result": "true"}
+01:29:14.854 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|266ms
+01:29:14.854 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":0,"collission":false,"userId":46387139,"lastTickle":1591032556203,"iserver":{"result":{"status":"ok"}}}
+01:29:45.966 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,401|1356ms
+01:29:45.967 WARN  vert.x-eventloop-thread-0 BaseServiceProxy     : failed /v1/api/tickle | reason Access Denied
+01:29:45.967 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle null
+01:29:45.967 ERROR vert.x-eventloop-thread-0 ClientPortalService  : tickle cp session failed {}
+io.vertx.core.impl.NoStackTraceThrowable: Access Denied
+01:29:45.968 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : cancel timer ClientPortalService 14
+01:29:45.968 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : forward event ON_CP_TICKLE_FAILED, payload none
+01:29:46.887 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/sso/validate?gw=1,401|919ms
+01:29:46.887 WARN  vert.x-eventloop-thread-0 BaseServiceProxy     : failed /v1/api/sso/validate?gw=1 | reason Access Denied
+01:29:46.888 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : portal validate response: null
+01:29:46.888 ERROR vert.x-eventloop-thread-0 GatewayHttpProxy     : authentication to cp failed, retry 1
+io.vertx.core.impl.NoStackTraceThrowable: Access Denied
+01:29:46.889 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : forward event CP_LOGIN_FAILED, payload none
+01:29:46.890 INFO  vert.x-eventloop-thread-0 GatewayHttpProxy     : Unhandled event CP_LOGIN_FAILED
+01:29:50.184 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/sso/validate?gw=1,401|291ms
+01:29:50.184 WARN  vert.x-eventloop-thread-0 BaseServiceProxy     : failed /v1/api/sso/validate?gw=1 | reason Access Denied
+01:29:50.184 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : portal validate response: null
+01:29:50.184 ERROR vert.x-eventloop-thread-0 GatewayHttpProxy     : authentication to cp failed, retry 2
+io.vertx.core.impl.NoStackTraceThrowable: Access Denied
+01:29:50.185 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : forward event CP_LOGIN_FAILED, payload none
+01:29:50.185 INFO  vert.x-eventloop-thread-0 GatewayHttpProxy     : Unhandled event CP_LOGIN_FAILED
+01:29:53.646 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/sso/validate?gw=1,401|460ms
+01:29:53.646 WARN  vert.x-eventloop-thread-0 BaseServiceProxy     : failed /v1/api/sso/validate?gw=1 | reason Access Denied
+01:29:53.646 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : portal validate response: null
+01:29:53.646 ERROR vert.x-eventloop-thread-0 GatewayHttpProxy     : authentication to cp failed, retry 3
+io.vertx.core.impl.NoStackTraceThrowable: Access Denied
+01:29:53.647 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : forward event CP_LOGIN_FAILED, payload none
+01:29:53.647 INFO  vert.x-eventloop-thread-0 GatewayHttpProxy     : Unhandled event CP_LOGIN_FAILED
+01:29:56.935 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/sso/validate?gw=1,401|285ms
+01:29:56.935 WARN  vert.x-eventloop-thread-0 BaseServiceProxy     : failed /v1/api/sso/validate?gw=1 | reason Access Denied
+01:29:56.935 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : portal validate response: null
+01:29:56.936 ERROR vert.x-eventloop-thread-0 GatewayHttpProxy     : authentication to cp failed, retry 4
+io.vertx.core.impl.NoStackTraceThrowable: Access Denied
+01:29:56.936 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : forward event CP_LOGIN_FAILED, payload none
+01:29:56.936 INFO  vert.x-eventloop-thread-0 GatewayHttpProxy     : Unhandled event CP_LOGIN_FAILED
+01:30:00.409 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/sso/validate?gw=1,401|470ms
+01:30:00.410 WARN  vert.x-eventloop-thread-0 BaseServiceProxy     : failed /v1/api/sso/validate?gw=1 | reason Access Denied
+01:30:00.410 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : portal validate response: null
+01:30:00.410 ERROR vert.x-eventloop-thread-0 GatewayHttpProxy     : authentication to cp failed, retry 5
+io.vertx.core.impl.NoStackTraceThrowable: Access Denied
+01:30:00.410 ERROR vert.x-eventloop-thread-0 GatewayHttpProxy     : giving up ...
+01:30:00.410 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : forward event CP_LOGIN_FAILED, payload none
+01:30:00.410 INFO  vert.x-eventloop-thread-0 GatewayHttpProxy     : Unhandled event CP_LOGIN_FAILED
+01:34:10.167 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/ping,200|1385ms
+01:34:10.167 INFO  vert.x-eventloop-thread-0 SsoService           : sso ping {"result": "true"}
+03:05:55.155 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/ping,200|2342ms
+03:05:55.155 INFO  vert.x-eventloop-thread-0 SsoService           : sso ping {"result": "true"}
+03:10:54.133 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/ping,200|1265ms
+03:10:54.134 INFO  vert.x-eventloop-thread-0 SsoService           : sso ping {"result": "true"}
+03:15:46.611 INFO  vert.x-eventloop-thread-0 GwWebsocketHandler   : starting ws: /v1/portal/ws -> /v1/portal/ws. id: fc994b38-f88b-4cac-8835-c8471b972189
+03:15:46.612 INFO  vert.x-eventloop-thread-0 GwWebsocketHandler   :  ws headers: [Cookie: REGION=us; XYZAB_AM.LOGIN=dfac72afe83cdda85772ae60d1db09dffbcd85ac; RL=1; URL_PARAM="forwardTo=22&RL=1&ip2loc=US"; XYZAB=dfac72afe83cdda85772ae60d1db09dffbcd85ac; USERID=46387139; api=8f324af9ee0b1a42ca5076bd5eb9bdd3; web=724443745, User-Agent: ClientPortalGW/1]
+03:15:46.623 INFO  vert.x-eventloop-thread-0 GwWebsocketHandler   : starting ws: /v1/portal/ws -> /v1/portal/ws. id: 61bfca92-fd27-4e95-8a75-5ce07bcd269c
+03:15:46.623 INFO  vert.x-eventloop-thread-0 GwWebsocketHandler   :  ws headers: [Cookie: REGION=us; XYZAB_AM.LOGIN=dfac72afe83cdda85772ae60d1db09dffbcd85ac; RL=1; URL_PARAM="forwardTo=22&RL=1&ip2loc=US"; XYZAB=dfac72afe83cdda85772ae60d1db09dffbcd85ac; USERID=46387139; api=8f324af9ee0b1a42ca5076bd5eb9bdd3; web=724443745, User-Agent: ClientPortalGW/1]
+03:15:48.041 ERROR vert.x-eventloop-thread-0 HttpClientImpl       : io.vertx.core.http.WebsocketRejectedException: Websocket connection attempt returned HTTP status code 404
+03:15:48.042 ERROR vert.x-eventloop-thread-0 HttpClientImpl       : io.vertx.core.http.WebsocketRejectedException: Websocket connection attempt returned HTTP status code 404
+03:15:54.172 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/ping,200|1391ms
+03:15:54.172 INFO  vert.x-eventloop-thread-0 SsoService           : sso ping {"result": "true"}
+03:20:53.898 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/ping,200|1076ms
+03:20:53.898 INFO  vert.x-eventloop-thread-0 SsoService           : sso ping {"result": "true"}
+03:25:54.781 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/ping,200|1906ms
+03:25:54.781 INFO  vert.x-eventloop-thread-0 SsoService           : sso ping {"result": "true"}
+03:26:47.725 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot,401|1308ms
+03:26:47.725 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+03:26:47.725 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+03:27:08.000 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/accounts,401|1445ms
+03:27:08.001 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+03:27:08.001 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+03:27:14.730 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/accounts,401|1350ms
+03:27:14.730 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+03:27:14.730 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+03:27:29.817 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/Login?forwardTo=22&RL=1&ip2loc=US,200|1298ms
+03:27:29.817 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [XYZAB_AM.LOGIN=""; Domain=.ibkr.com; Path=/, XYZAB=""; Domain=.ibkr.com; Path=/, URL_PARAM="forwardTo=22&RL=1&ip2loc=US"; Version=1; Domain=.ibkr.com; Path=/, RL=1; Domain=.ibkr.com; Path=/, JSESSIONID=B140540D3E4F541BA29B1A3ABB269F92.ny5wwwdamsso1; Path=/sso; HttpOnly, BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+03:27:29.818 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [XYZAB_AM.LOGIN=""; Domain=.ibkr.com; Path=/, XYZAB=""; Domain=.ibkr.com; Path=/, URL_PARAM="forwardTo=22&RL=1&ip2loc=US"; Version=1; Domain=.ibkr.com; Path=/, RL=1; Domain=.ibkr.com; Path=/, JSESSIONID=B140540D3E4F541BA29B1A3ABB269F92.ny5wwwdamsso1; Path=/sso; HttpOnly, BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+03:27:30.734 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/Templates/otp-responsive.css?1591039652100,200|829ms
+03:27:30.734 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+03:27:30.734 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+03:27:30.740 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/CombineFiles,200|832ms
+03:27:30.741 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+03:27:30.741 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+03:27:30.742 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /stylesheet/web/ib-common.css,200|838ms
+03:27:30.743 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+03:27:30.743 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+03:27:33.196 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /images/2015/template/logo-ib-ibkr-txtwht.svg,200|302ms
+03:27:33.197 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /images/2015/template/logo-ib-ibkr-txtblk.svg,200|300ms
+03:27:50.036 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/Authenticator?83239,200|1139ms
+03:27:50.037 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+03:27:50.037 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+03:27:56.565 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/Authenticator?72404,200|1609ms
+03:27:56.566 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+03:27:56.566 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+03:28:00.683 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/Authenticator?79802,200|4100ms
+03:28:00.683 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+03:28:00.684 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+03:28:15.514 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/Authenticator?30784,200|1475ms
+03:28:15.515 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+03:28:15.515 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+03:28:16.436 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/Dispatcher,302|894ms
+03:28:16.436 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [USERID=46387139; Domain=.ibkr.com; Path=/, REGION=us; Domain=.ibkr.com; Path=/, BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+03:28:16.437 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [USERID=46387139; Domain=.ibkr.com; Path=/, REGION=us; Domain=.ibkr.com; Path=/, BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+03:28:16.438 INFO  vert.x-eventloop-thread-0 GatewayHttpProxy     : Client login succeeds
+03:28:16.439 INFO  vert.x-eventloop-thread-0 AmService            : authenticating with AM https://api.ibkr.com/AccountManagement/OneBarAuthentication?json=1
+03:28:17.357 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /AccountManagement/OneBarAuthentication?json=1,404|918ms
+03:28:17.358 WARN  vert.x-eventloop-thread-0 BaseServiceProxy     : failed /AccountManagement/OneBarAuthentication?json=1 | reason <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /AccountManagement/OneBarAuthentication was not found on this server.</p>
+<p>Additionally, a 404 Not Found
+error was encountered while trying to use an ErrorDocument to handle the request.</p>
+</body></html>
+
+03:28:17.358 ERROR vert.x-eventloop-thread-0 AmService            : am authentication failed
+io.vertx.core.impl.NoStackTraceThrowable: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /AccountManagement/OneBarAuthentication was not found on this server.</p>
+<p>Additionally, a 404 Not Found
+error was encountered while trying to use an ErrorDocument to handle the request.</p>
+</body></html>
+
+03:28:17.358 WARN  vert.x-eventloop-thread-0 BaseServiceProxy     : failed /AccountManagement/OneBarAuthentication?json=1 | reason 404
+03:28:17.359 ERROR vert.x-eventloop-thread-0 AmService            : am authentication failed
+io.vertx.core.impl.NoStackTraceThrowable: 404
+03:28:17.359 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/sso/validate?gw=1,200|921ms
+03:28:17.359 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : portal validate response: {"SFT":"4.2","LOGIN_TYPE":1,"IS_PENDING_APPLICANT":false,"SF_ENABLED":true,"AUTH_TIME":1591039697524,"CREDENTIAL":"phav1989","SF_CONFIG":"4.2","USER_NAME":"phav1989","CREDENTIAL_TYPE":0,"RESULT":true,"IS_FREE_TRIAL":false,"IP":"116.14.238.9","USER_ID":46387139,"EXPIRES":1591039699669,"TOKEN":"7e42180f2ef0a0a6dc0597d8c73e1f35c72160a4"}
+03:28:17.360 INFO  vert.x-eventloop-thread-0 GatewayHttpProxy     : authenticated to cp
+03:28:17.360 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : cancel timer SsoService 12
+03:28:17.360 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : start timer 300000 SsoService
+03:28:17.970 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/one/user,200|610ms
+03:28:17.970 INFO  vert.x-eventloop-thread-0 ClientPortalService  : get user reply {"ispaper":false,"islite":false,"has2fa":true,"username":"phav1989","features":{"env":"PROD","wlms":true,"realtime":true,"bond":true,"optionChains":true,"calendar":true,"aQA":true,"newMf":true},"applicants":[{"id":5246201,"type":"INDIVIDUAL","entityId":112074642,"businessType":"INDEPENDENT","legalCountry":{"name":"Singapore","alpha3":"SGP"},"nlcode":"en"}],"uar":{"portfolioAnalyst":true,"userInfo":true,"messageCenter":true,"accountDetails":true,"tradingRestrictions":false,"tws":true,"fyi":true,"voting":true,"forum":true,"recentTransactions":true},"accts":{"U3818550":{"clearingStatus":"O","openDate":1579410000000,"isFunded":true,"tradingPermissions":["FUND","IOPT","BILL","WAR","STK","BOND","CASH"],"isFAClient":false},"U3818550F":{"clearingStatus":"O","openDate":1588651200000,"isFunded":true,"tradingPermissions":["CFD","CMDTY"],"isFAClient":false}},"props":{"readOnlySession":null,"isIBAMClient":false},"firstApprovedDate":1579582800000}
+03:28:18.244 INFO  vert.x-eventloop-thread-0 SsoService           : sso init status=200, url=https://api.ibkr.com/sso/AuthenticateSSODH?ACTION=INIT
+03:28:18.244 DEBUG vert.x-eventloop-thread-0 SsoService           : sso init reponse: <ib_auth_res>
+<dh_params>
+<hash>SHA-1</hash>
+<p>d95b562ec3d36ef635a499d5d7a88c860245ca053841e9134df2d15bc1427cd4e9b7ea093ceb503a96219fe4d15ae800e63db9c87a9b89e0981270c7ac1e9567</p>
+<g>cb96dd6f730db7f5e93cfc25c0ac9e6e3eb52b62446ab6c33f3c9ac38ea6ea7cbf209ee8d279fff74c210a01b1b4911da29ffd57c89ed274ec280cceec22d27b</g>
+<A>b1d03ee6805d3564b7106cc6650f5fcee5940133f717589be0ab65d0ad4f9fdd51b17606e19161917b14d978e9aba2049bd8ddcc5e127037432bf52e8e541c92</A>
+<challenge>4dab32e28558404865df69a041a670334a8fbcb8</challenge>
+<info></info>
+</dh_params>
+</ib_auth_res>
+
+03:28:18.245 DEBUG vert.x-eventloop-thread-0 SsoService           : p d95b562ec3d36ef635a499d5d7a88c860245ca053841e9134df2d15bc1427cd4e9b7ea093ceb503a96219fe4d15ae800e63db9c87a9b89e0981270c7ac1e9567
+03:28:18.245 DEBUG vert.x-eventloop-thread-0 SsoService           : K c2a7a796335f7a71ba12ab0df78ae763b3d87e15
+03:28:18.245 DEBUG vert.x-eventloop-thread-0 SsoService           : chlRes 1168d68d60966195ddb2d24bb73f6cbbc3ef3db3
+03:28:18.246 DEBUG vert.x-eventloop-thread-0 SsoService           : B 9e51041171443bf5a7c9a81fc93a664578c46fa5a5ca6f5dfb431e29d48e7be96bfad5c18138d424183435aa3c12008baae6903096be27567d5b9183899801b4
+03:28:18.598 INFO  vert.x-eventloop-thread-0 SsoService           : sso complete url status=200, url=https://api.ibkr.com/sso/AuthenticateSSODH?ACTION=COMPLETE&B=9e51041171443bf5a7c9a81fc93a664578c46fa5a5ca6f5dfb431e29d48e7be96bfad5c18138d424183435aa3c12008baae6903096be27567d5b9183899801b4&CHRESPONSE=1168d68d60966195ddb2d24bb73f6cbbc3ef3db3
+03:28:18.598 DEBUG vert.x-eventloop-thread-0 SsoService           : challenge reply:
+<ib_auth_res>
+<dh_params>
+<enc>AES</enc>
+<einfo>-5fbe4f663c1b9fabed5e337a575caf84</einfo>
+<info></info>
+</dh_params>
+</ib_auth_res>
+
+03:28:18.598 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : forward event ON_SSODH_COMPLETED, payload none
+03:28:18.598 DEBUG vert.x-eventloop-thread-0 GatewayHttpProxy     : delaying authentication for 3000
+03:28:21.960 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/iserver/auth/status,200|362ms
+03:28:21.961 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : status {"authenticated":false,"competing":false,"connected":false,"MAC":"48:DF:37:57:33:80"}
+03:28:21.961 INFO  vert.x-eventloop-thread-0 ClientPortalService  : process auth status {"authenticated":false,"competing":false,"connected":false,"MAC":"48:DF:37:57:33:80"}
+03:28:21.962 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : auth brokerage, k=c2a7a796335f7a71ba12ab0df78ae763b3d87e15, post={"username":"phav1989","machineId":"2cf40ffc","compete":true}
+03:28:22.882 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> POST https://api.ibkr.com/v1/api/iserver/auth/ssodh/init,200|920ms
+03:28:22.882 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : iserver init : {"challenge":"e4e205282808e5a279db56b1ab1959aef5f5f5e2"}
+03:28:22.882 INFO  vert.x-eventloop-thread-0 ClientPortalService  : sending sso dh response, k=26cfd158b85ba28d27a218a6852fbbacbe085c21
+03:28:23.393 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> POST https://api.ibkr.com/v1/api/iserver/auth/ssodh/response,200|511ms
+03:28:23.394 INFO  vert.x-eventloop-thread-0 ClientPortalService  : server sso dh response {"passed":true,"authenticated":true,"connected":true,"competing":false}
+03:28:23.394 INFO  vert.x-eventloop-thread-0 ClientPortalService  : process auth status {"passed":true,"authenticated":true,"connected":true,"competing":false}
+03:28:23.394 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : start timer 30000 ClientPortalService
+03:28:23.599 ERROR vert.x-eventloop-thread-0 BaseServiceProxy     : request failed Connection was closed
+io.vertx.core.VertxException: Connection was closed
+	at io.vertx.core.http.impl.ClientConnection.handleClosed(ClientConnection.java:406)
+	at io.vertx.core.impl.ContextImpl.lambda$wrapTask$2(ContextImpl.java:342)
+	at io.vertx.core.impl.ContextImpl.executeFromIO(ContextImpl.java:200)
+	at io.vertx.core.net.impl.VertxHandler.channelInactive(VertxHandler.java:134)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224)
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelInactive(CombinedChannelDuplexHandler.java:420)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:377)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:342)
+	at io.netty.handler.codec.http.HttpClientCodec$Decoder.channelInactive(HttpClientCodec.java:281)
+	at io.netty.channel.CombinedChannelDuplexHandler.channelInactive(CombinedChannelDuplexHandler.java:223)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:377)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:342)
+	at io.netty.handler.ssl.SslHandler.channelInactive(SslHandler.java:978)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelInactive(DefaultChannelPipeline.java:1354)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelInactive(DefaultChannelPipeline.java:917)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:763)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:403)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:463)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858)
+	at java.lang.Thread.run(Thread.java:748)
+03:28:25.954 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/accounts,404|509ms
+03:28:54.789 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1394ms
+03:28:54.789 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":562562,"collission":false,"userId":46387139,"lastTickle":1591039737107,"iserver":{"result":{"status":"ok"}}}
+03:29:15.110 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/sso/validate,200|1312ms
+03:29:15.110 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+03:29:15.110 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+03:29:19.715 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/auth/status,200|443ms
+03:29:23.710 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|313ms
+03:29:23.710 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":533689,"collission":false,"userId":46387139,"lastTickle":1591039765980,"iserver":{"result":{"status":"ok"}}}
+03:29:28.629 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/accounts,404|302ms
+03:29:36.303 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/account,500|1366ms
+03:29:36.304 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+03:29:36.304 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+03:29:40.913 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/accounts,200|1087ms
+03:29:40.913 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+03:29:40.914 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+03:29:54.699 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1298ms
+03:29:54.699 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":502659,"collission":false,"userId":46387139,"lastTickle":1591039797010,"iserver":{"result":{"status":"ok"}}}
+03:30:17.779 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot,500|1343ms
+03:30:17.779 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+03:30:17.779 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+03:30:24.536 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1136ms
+03:30:24.536 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":472852,"collission":false,"userId":46387139,"lastTickle":1591039826817,"iserver":{"result":{"status":"ok"}}}
+03:30:54.641 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1239ms
+03:30:54.642 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":442747,"collission":false,"userId":46387139,"lastTickle":1591039856922,"iserver":{"result":{"status":"ok"}}}
+03:31:25.055 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1640ms
+03:31:25.055 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":412635,"collission":false,"userId":46387139,"lastTickle":1591039887034,"iserver":{"result":{"status":"ok"}}}
+03:31:54.793 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1376ms
+03:31:54.793 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":382569,"collission":false,"userId":46387139,"lastTickle":1591039917100,"iserver":{"result":{"status":"ok"}}}
+03:32:08.985 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot/265598,404|1343ms
+03:32:08.985 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+03:32:08.985 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+03:32:24.653 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1249ms
+03:32:24.654 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":352742,"collission":false,"userId":46387139,"lastTickle":1591039946927,"iserver":{"result":{"status":"ok"}}}
+03:32:54.759 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1357ms
+03:32:54.759 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":322638,"collission":false,"userId":46387139,"lastTickle":1591039977031,"iserver":{"result":{"status":"ok"}}}
+03:32:56.607 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot/265598,403|354ms
+03:33:06.745 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot,403|1363ms
+03:33:06.745 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+03:33:06.745 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+03:33:12.167 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot,500|1639ms
+03:33:12.167 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+03:33:12.167 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+03:33:18.391 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/ping,200|1028ms
+03:33:18.391 INFO  vert.x-eventloop-thread-0 SsoService           : sso ping {"result": "true"}
+03:33:23.404 ERROR vert.x-eventloop-thread-0 BaseServiceProxy     : request failed Connection was closed
+io.vertx.core.VertxException: Connection was closed
+	at io.vertx.core.http.impl.ClientConnection.handleClosed(ClientConnection.java:406)
+	at io.vertx.core.impl.ContextImpl.lambda$wrapTask$2(ContextImpl.java:342)
+	at io.vertx.core.impl.ContextImpl.executeFromIO(ContextImpl.java:200)
+	at io.vertx.core.net.impl.VertxHandler.channelInactive(VertxHandler.java:134)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224)
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelInactive(CombinedChannelDuplexHandler.java:420)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:377)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:342)
+	at io.netty.handler.codec.http.HttpClientCodec$Decoder.channelInactive(HttpClientCodec.java:281)
+	at io.netty.channel.CombinedChannelDuplexHandler.channelInactive(CombinedChannelDuplexHandler.java:223)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:377)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:342)
+	at io.netty.handler.ssl.SslHandler.channelInactive(SslHandler.java:978)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelInactive(DefaultChannelPipeline.java:1354)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelInactive(DefaultChannelPipeline.java:917)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:763)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:403)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:463)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858)
+	at java.lang.Thread.run(Thread.java:748)
+03:33:25.173 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot,403|1353ms
+03:33:25.173 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+03:33:25.173 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+03:33:54.664 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1247ms
+03:33:54.664 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":262724,"collission":false,"userId":46387139,"lastTickle":1591040036945,"iserver":{"result":{"status":"ok"}}}
+03:34:24.771 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1353ms
+03:34:24.771 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":232623,"collission":false,"userId":46387139,"lastTickle":1591040067046,"iserver":{"result":{"status":"ok"}}}
+03:34:31.841 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598,200|1328ms
+03:34:31.841 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+03:34:31.841 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+03:34:54.876 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1468ms
+03:34:54.876 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":202504,"collission":false,"userId":46387139,"lastTickle":1591040097165,"iserver":{"result":{"status":"ok"}}}
+03:35:10.501 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C265598,200|1442ms
+03:35:10.501 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+03:35:10.501 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+03:35:22.832 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598,200|1365ms
+03:35:22.833 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+03:35:22.833 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+03:35:23.754 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|359ms
+03:35:23.754 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":173698,"collission":false,"userId":46387139,"lastTickle":1591040125971,"iserver":{"result":{"status":"ok"}}}
+03:35:54.781 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1378ms
+03:35:54.781 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":142606,"collission":false,"userId":46387139,"lastTickle":1591040157063,"iserver":{"result":{"status":"ok"}}}
+03:36:24.887 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1484ms
+03:36:24.888 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":112500,"collission":false,"userId":46387139,"lastTickle":1591040187169,"iserver":{"result":{"status":"ok"}}}
+03:36:33.759 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31,200|1277ms
+03:36:33.759 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+03:36:33.759 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+03:36:47.007 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31,55,200|1246ms
+03:36:47.007 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+03:36:47.007 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+03:36:54.687 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1291ms
+03:36:54.687 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":82675,"collission":false,"userId":46387139,"lastTickle":1591040216994,"iserver":{"result":{"status":"ok"}}}
+03:36:56.530 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598,&fields=31,55,200|406ms
+03:37:25.100 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1704ms
+03:37:25.101 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":52313,"collission":false,"userId":46387139,"lastTickle":1591040247356,"iserver":{"result":{"status":"ok"}}}
+03:37:51.827 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598,107113386&fields=31,55,200|1253ms
+03:37:51.827 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+03:37:51.827 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+03:37:53.977 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|581ms
+03:37:53.978 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":23681,"collission":false,"userId":46387139,"lastTickle":1591040275988,"iserver":{"result":{"status":"ok"}}}
+03:38:21.277 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/ping,200|1481ms
+03:38:21.277 INFO  vert.x-eventloop-thread-0 SsoService           : sso ping {"result": "true"}
+03:38:26.193 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|379ms
+03:38:26.193 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":0,"collission":false,"userId":46387139,"lastTickle":1591040305989,"iserver":{"result":{"status":"ok"}}}
+03:38:57.169 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,401|1355ms
+03:38:57.169 WARN  vert.x-eventloop-thread-0 BaseServiceProxy     : failed /v1/api/tickle | reason Access Denied
+03:38:57.169 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle null
+03:38:57.169 ERROR vert.x-eventloop-thread-0 ClientPortalService  : tickle cp session failed {}
+io.vertx.core.impl.NoStackTraceThrowable: Access Denied
+03:38:57.170 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : cancel timer ClientPortalService 21
+03:38:57.170 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : forward event ON_CP_TICKLE_FAILED, payload none
+03:38:58.086 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/sso/validate?gw=1,401|916ms
+03:38:58.086 WARN  vert.x-eventloop-thread-0 BaseServiceProxy     : failed /v1/api/sso/validate?gw=1 | reason Access Denied
+03:38:58.086 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : portal validate response: null
+03:38:58.087 ERROR vert.x-eventloop-thread-0 GatewayHttpProxy     : authentication to cp failed, retry 1
+io.vertx.core.impl.NoStackTraceThrowable: Access Denied
+03:38:58.087 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : forward event CP_LOGIN_FAILED, payload none
+03:38:58.087 INFO  vert.x-eventloop-thread-0 GatewayHttpProxy     : Unhandled event CP_LOGIN_FAILED
+03:38:58.698 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386&fields=31%2C55,401|448ms
+03:39:01.454 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/sso/validate?gw=1,401|365ms
+03:39:01.454 WARN  vert.x-eventloop-thread-0 BaseServiceProxy     : failed /v1/api/sso/validate?gw=1 | reason Access Denied
+03:39:01.454 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : portal validate response: null
+03:39:01.455 ERROR vert.x-eventloop-thread-0 GatewayHttpProxy     : authentication to cp failed, retry 2
+io.vertx.core.impl.NoStackTraceThrowable: Access Denied
+03:39:01.455 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : forward event CP_LOGIN_FAILED, payload none
+03:39:01.455 INFO  vert.x-eventloop-thread-0 GatewayHttpProxy     : Unhandled event CP_LOGIN_FAILED
+03:39:04.824 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/sso/validate?gw=1,401|368ms
+03:39:04.824 WARN  vert.x-eventloop-thread-0 BaseServiceProxy     : failed /v1/api/sso/validate?gw=1 | reason Access Denied
+03:39:04.824 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : portal validate response: null
+03:39:04.825 ERROR vert.x-eventloop-thread-0 GatewayHttpProxy     : authentication to cp failed, retry 3
+io.vertx.core.impl.NoStackTraceThrowable: Access Denied
+03:39:04.825 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : forward event CP_LOGIN_FAILED, payload none
+03:39:04.825 INFO  vert.x-eventloop-thread-0 GatewayHttpProxy     : Unhandled event CP_LOGIN_FAILED
+03:39:08.198 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/sso/validate?gw=1,401|370ms
+03:39:08.198 WARN  vert.x-eventloop-thread-0 BaseServiceProxy     : failed /v1/api/sso/validate?gw=1 | reason Access Denied
+03:39:08.198 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : portal validate response: null
+03:39:08.198 ERROR vert.x-eventloop-thread-0 GatewayHttpProxy     : authentication to cp failed, retry 4
+io.vertx.core.impl.NoStackTraceThrowable: Access Denied
+03:39:08.198 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : forward event CP_LOGIN_FAILED, payload none
+03:39:08.198 INFO  vert.x-eventloop-thread-0 GatewayHttpProxy     : Unhandled event CP_LOGIN_FAILED
+03:39:11.579 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/sso/validate?gw=1,401|379ms
+03:39:11.580 WARN  vert.x-eventloop-thread-0 BaseServiceProxy     : failed /v1/api/sso/validate?gw=1 | reason Access Denied
+03:39:11.580 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : portal validate response: null
+03:39:11.580 ERROR vert.x-eventloop-thread-0 GatewayHttpProxy     : authentication to cp failed, retry 5
+io.vertx.core.impl.NoStackTraceThrowable: Access Denied
+03:39:11.580 ERROR vert.x-eventloop-thread-0 GatewayHttpProxy     : giving up ...
+03:39:11.580 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : forward event CP_LOGIN_FAILED, payload none
+03:39:11.580 INFO  vert.x-eventloop-thread-0 GatewayHttpProxy     : Unhandled event CP_LOGIN_FAILED
+03:39:28.767 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386,401|1374ms
+03:39:28.767 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+03:39:28.767 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+03:39:42.833 WARN  vert.x-eventloop-thread-0 DefaultChannelPipeline : An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+io.netty.handler.codec.DecoderException: javax.net.ssl.SSLException: Received fatal alert: unknown_ca
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:459)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:265)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1359)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:935)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:134)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:645)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:580)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:497)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:459)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: javax.net.ssl.SSLException: Received fatal alert: unknown_ca
+	at sun.security.ssl.Alerts.getSSLException(Alerts.java:214)
+	at sun.security.ssl.SSLEngineImpl.fatal(SSLEngineImpl.java:1667)
+	at sun.security.ssl.SSLEngineImpl.fatal(SSLEngineImpl.java:1635)
+	at sun.security.ssl.SSLEngineImpl.recvAlert(SSLEngineImpl.java:1801)
+	at sun.security.ssl.SSLEngineImpl.readRecord(SSLEngineImpl.java:1090)
+	at sun.security.ssl.SSLEngineImpl.readNetRecord(SSLEngineImpl.java:913)
+	at sun.security.ssl.SSLEngineImpl.unwrap(SSLEngineImpl.java:783)
+	at javax.net.ssl.SSLEngine.unwrap(SSLEngine.java:626)
+	at io.netty.handler.ssl.SslHandler$SslEngineType$3.unwrap(SslHandler.java:281)
+	at io.netty.handler.ssl.SslHandler.unwrap(SslHandler.java:1215)
+	at io.netty.handler.ssl.SslHandler.decodeJdkCompatible(SslHandler.java:1127)
+	at io.netty.handler.ssl.SslHandler.decode(SslHandler.java:1162)
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:489)
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:428)
+	... 15 common frames omitted
+03:39:53.643 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386,401|1190ms
+03:39:53.644 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+03:39:53.644 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+03:40:13.169 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598,%20107113386&fields=31,55,401|1021ms
+03:40:13.169 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+03:40:13.169 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+03:40:18.177 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598,107113386&fields=31,55,401|258ms
+03:40:27.267 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31,55,401|1039ms
+03:40:27.267 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+03:40:27.267 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+03:40:35.108 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31,401|1046ms
+03:40:35.108 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+03:40:35.108 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+03:40:45.083 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/auth/status,401|1013ms
+03:40:45.083 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+03:40:45.083 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+03:41:05.515 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/Login?forwardTo=22&RL=1&ip2loc=US,200|1071ms
+03:41:05.515 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [XYZAB_AM.LOGIN=""; Domain=.ibkr.com; Path=/, XYZAB=""; Domain=.ibkr.com; Path=/, URL_PARAM="forwardTo=22&RL=1&ip2loc=US"; Version=1; Domain=.ibkr.com; Path=/, RL=1; Domain=.ibkr.com; Path=/, JSESSIONID=BCBCC79F90DB275AD971CBD1150800FC.ny5wwwdamsso1; Path=/sso; HttpOnly, BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+03:41:05.515 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [XYZAB_AM.LOGIN=""; Domain=.ibkr.com; Path=/, XYZAB=""; Domain=.ibkr.com; Path=/, URL_PARAM="forwardTo=22&RL=1&ip2loc=US"; Version=1; Domain=.ibkr.com; Path=/, RL=1; Domain=.ibkr.com; Path=/, JSESSIONID=BCBCC79F90DB275AD971CBD1150800FC.ny5wwwdamsso1; Path=/sso; HttpOnly, BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+03:41:06.331 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/CombineFiles,200|740ms
+03:41:06.331 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+03:41:06.331 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+03:41:06.335 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/Templates/otp-responsive.css?1591040465374,200|760ms
+03:41:06.336 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+03:41:06.336 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+03:41:06.405 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /stylesheet/web/ib-common.css,304|812ms
+03:41:06.405 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+03:41:06.405 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+03:41:08.158 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /images/2015/template/logo-ib-ibkr-txtwht.svg,200|268ms
+03:41:15.781 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/Authenticator?70653,200|1275ms
+03:41:15.781 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+03:41:15.781 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+03:41:22.406 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/Authenticator?21598,200|768ms
+03:41:22.406 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+03:41:22.408 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+03:41:23.188 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/Authenticator?21955,200|764ms
+03:41:23.189 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+03:41:23.189 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+03:41:39.819 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/Authenticator?37499,200|939ms
+03:41:39.820 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+03:41:39.820 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+03:41:40.627 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/Dispatcher,302|794ms
+03:41:40.627 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [USERID=46387139; Domain=.ibkr.com; Path=/, REGION=us; Domain=.ibkr.com; Path=/, BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+03:41:40.627 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [USERID=46387139; Domain=.ibkr.com; Path=/, REGION=us; Domain=.ibkr.com; Path=/, BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+03:41:40.628 INFO  vert.x-eventloop-thread-0 GatewayHttpProxy     : Client login succeeds
+03:41:40.630 INFO  vert.x-eventloop-thread-0 AmService            : authenticating with AM https://api.ibkr.com/AccountManagement/OneBarAuthentication?json=1
+03:41:41.408 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /AccountManagement/OneBarAuthentication?json=1,404|778ms
+03:41:41.409 WARN  vert.x-eventloop-thread-0 BaseServiceProxy     : failed /AccountManagement/OneBarAuthentication?json=1 | reason <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /AccountManagement/OneBarAuthentication was not found on this server.</p>
+<p>Additionally, a 404 Not Found
+error was encountered while trying to use an ErrorDocument to handle the request.</p>
+</body></html>
+
+03:41:41.409 ERROR vert.x-eventloop-thread-0 AmService            : am authentication failed
+io.vertx.core.impl.NoStackTraceThrowable: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /AccountManagement/OneBarAuthentication was not found on this server.</p>
+<p>Additionally, a 404 Not Found
+error was encountered while trying to use an ErrorDocument to handle the request.</p>
+</body></html>
+
+03:41:41.409 WARN  vert.x-eventloop-thread-0 BaseServiceProxy     : failed /AccountManagement/OneBarAuthentication?json=1 | reason 404
+03:41:41.410 ERROR vert.x-eventloop-thread-0 AmService            : am authentication failed
+io.vertx.core.impl.NoStackTraceThrowable: 404
+03:41:41.439 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/sso/validate?gw=1,200|810ms
+03:41:41.440 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : portal validate response: {"SFT":"4.2","LOGIN_TYPE":1,"IS_PENDING_APPLICANT":false,"SF_ENABLED":true,"AUTH_TIME":1591040499532,"CREDENTIAL":"phav1989","SF_CONFIG":"4.2","USER_NAME":"phav1989","CREDENTIAL_TYPE":0,"RESULT":true,"IS_FREE_TRIAL":false,"IP":"116.14.238.9","USER_ID":46387139,"EXPIRES":1591040501272,"TOKEN":"6dba3e24eaaad25bd8453b5b921275419fc8de22"}
+03:41:41.440 INFO  vert.x-eventloop-thread-0 GatewayHttpProxy     : authenticated to cp
+03:41:41.441 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : cancel timer SsoService 19
+03:41:41.441 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : start timer 300000 SsoService
+03:41:41.701 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/one/user,200|260ms
+03:41:41.702 INFO  vert.x-eventloop-thread-0 ClientPortalService  : get user reply {"ispaper":false,"islite":false,"has2fa":true,"username":"phav1989","features":{"env":"PROD","wlms":true,"realtime":true,"bond":true,"optionChains":true,"calendar":true,"aQA":true,"newMf":true},"applicants":[{"id":5246201,"type":"INDIVIDUAL","entityId":112074642,"businessType":"INDEPENDENT","legalCountry":{"name":"Singapore","alpha3":"SGP"},"nlcode":"en"}],"uar":{"portfolioAnalyst":true,"userInfo":true,"messageCenter":true,"accountDetails":true,"tradingRestrictions":false,"tws":true,"fyi":true,"voting":true,"forum":true,"recentTransactions":true},"accts":{"U3818550":{"clearingStatus":"O","openDate":1579410000000,"isFunded":true,"tradingPermissions":["FUND","IOPT","BILL","WAR","STK","BOND","CASH"],"isFAClient":false},"U3818550F":{"clearingStatus":"O","openDate":1588651200000,"isFunded":true,"tradingPermissions":["CFD","CMDTY"],"isFAClient":false}},"props":{"readOnlySession":null,"isIBAMClient":false},"firstApprovedDate":1579582800000}
+03:41:41.716 INFO  vert.x-eventloop-thread-0 SsoService           : sso init status=200, url=https://api.ibkr.com/sso/AuthenticateSSODH?ACTION=INIT
+03:41:41.717 DEBUG vert.x-eventloop-thread-0 SsoService           : sso init reponse: <ib_auth_res>
+<dh_params>
+<hash>SHA-1</hash>
+<p>b7a444c7e016a6e137634a254b79c5d7274dd543c2d0ce2c1c9fe8a44c0712cee3f01aa746400c7fcad0bc5f82cbac881a0027daaee8270b55eabcfe31f77bdf</p>
+<g>e3fd0e74e469420880d6296782a05be84b01f684a990fc2349c692dae2b5de12bb5be691c2e73238d38ac12cfdb60f10a71e2ae562a76d43860298e63763c48f</g>
+<A>b1b54fdf66f373ba3e1d8bba323ba5a32435cbf118b265f3c7eb23cefea1ccf4f5fd93b7cb99a34d1992488917f0a1807b6861a7e814322bb5e4c735caaab677</A>
+<challenge>f0cf3c2d4d8fd77f4faca75d4ada6fd5198dcbf6</challenge>
+<info></info>
+</dh_params>
+</ib_auth_res>
+
+03:41:41.717 DEBUG vert.x-eventloop-thread-0 SsoService           : p b7a444c7e016a6e137634a254b79c5d7274dd543c2d0ce2c1c9fe8a44c0712cee3f01aa746400c7fcad0bc5f82cbac881a0027daaee8270b55eabcfe31f77bdf
+03:41:41.718 DEBUG vert.x-eventloop-thread-0 SsoService           : K db5f21e3d7b95f55794fed1c3ae546f46b240292
+03:41:41.718 DEBUG vert.x-eventloop-thread-0 SsoService           : chlRes 4423303c5b8bf3afc8b7924f2364761920305b61
+03:41:41.718 DEBUG vert.x-eventloop-thread-0 SsoService           : B a70347487995132dd51c6dd2bfb26f24a02b11af529d7f3cfb90dc23c8230bd7694d50c263942e648837cb7fe2813dd00c69eae5a759e0f679f524945ca8fb99
+03:41:41.996 INFO  vert.x-eventloop-thread-0 SsoService           : sso complete url status=200, url=https://api.ibkr.com/sso/AuthenticateSSODH?ACTION=COMPLETE&B=a70347487995132dd51c6dd2bfb26f24a02b11af529d7f3cfb90dc23c8230bd7694d50c263942e648837cb7fe2813dd00c69eae5a759e0f679f524945ca8fb99&CHRESPONSE=4423303c5b8bf3afc8b7924f2364761920305b61
+03:41:41.996 DEBUG vert.x-eventloop-thread-0 SsoService           : challenge reply:
+<ib_auth_res>
+<dh_params>
+<enc>AES</enc>
+<einfo>-1f6a73e0bdaf2ac11a6b469600e84c60</einfo>
+<info></info>
+</dh_params>
+</ib_auth_res>
+
+03:41:41.997 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : forward event ON_SSODH_COMPLETED, payload none
+03:41:41.997 DEBUG vert.x-eventloop-thread-0 GatewayHttpProxy     : delaying authentication for 3000
+03:41:45.258 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/iserver/auth/status,200|258ms
+03:41:45.258 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : status {"authenticated":true,"competing":false,"connected":true,"message":"","MAC":"48:DF:37:57:33:80","fail":""}
+03:41:45.258 INFO  vert.x-eventloop-thread-0 ClientPortalService  : process auth status {"authenticated":true,"competing":false,"connected":true,"message":"","MAC":"48:DF:37:57:33:80","fail":""}
+03:41:45.259 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : start timer 30000 ClientPortalService
+03:41:45.516 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/iserver/accounts,200|257ms
+03:41:45.516 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : iserver accounts {"accounts":[],"acctProps":{"U3818550":{"hasChildAccounts":false,"supportsCashQty":true,"supportsFractions":true}},"aliases":{"U3818550":"U3818550"},"chartPeriods":{"STK":["*"],"CFD":["*"],"OPT":["2h","1d","2d","1w","1m"],"FOP":["2h","1d","2d","1w","1m"],"WAR":["*"],"IOPT":["*"],"FUT":["*"],"CASH":["*"],"IND":["*"],"BOND":["*"],"FUND":["*"],"CMDTY":["*"]},"selectedAccount":"U3818550","tradingPermissions":{},"allowFeatures":{"showGFIS":true,"snapshotRefreshTimeout":30,"liteUser":false,"showWebNews":true,"research":true,"showTaxOpt":true},"serverInfo":{"serverName":"JisfN1186","serverVersion":"Build 980.2a, May 18, 2020 6:46:38 PM"}}
+03:41:48.702 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31,200|258ms
+03:41:58.673 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386,200|1057ms
+03:41:58.673 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+03:41:58.673 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+03:42:16.295 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1034ms
+03:42:16.296 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":565135,"collission":false,"userId":46387139,"lastTickle":1591040536137,"iserver":{"result":{"status":"ok"}}}
+03:42:39.924 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386&fields=31%2C55,200|1029ms
+03:42:39.925 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+03:42:39.925 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+03:42:46.305 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1045ms
+03:42:46.305 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":535112,"collission":false,"userId":46387139,"lastTickle":1591040566160,"iserver":{"result":{"status":"ok"}}}
+03:42:54.505 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386&fields=31%2C55,200|985ms
+03:42:54.505 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+03:42:54.505 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+03:43:09.167 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386&fields=31%2C55,200|1053ms
+03:43:09.168 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+03:43:09.168 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+03:43:10.436 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386&fields=31%2C55,200|266ms
+03:43:11.532 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386&fields=31%2C55,200|265ms
+03:43:12.865 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386&fields=31%2C55,200|265ms
+03:43:15.312 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386&fields=31%2C55,200|264ms
+03:43:16.027 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|768ms
+03:43:16.028 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":505393,"collission":false,"userId":46387139,"lastTickle":1591040595879,"iserver":{"result":{"status":"ok"}}}
+03:43:16.785 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386&fields=31%2C55,200|265ms
+03:43:17.959 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386&fields=31%2C55,200|259ms
+03:43:19.002 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386&fields=31%2C55,200|265ms
+03:43:19.982 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386&fields=31%2C55,200|259ms
+03:43:22.213 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386&fields=31%2C55,200|263ms
+03:43:46.353 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1076ms
+03:43:46.353 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":475077,"collission":false,"userId":46387139,"lastTickle":1591040626195,"iserver":{"result":{"status":"ok"}}}
+03:44:16.324 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1045ms
+03:44:16.324 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":445112,"collission":false,"userId":46387139,"lastTickle":1591040656160,"iserver":{"result":{"status":"ok"}}}
+03:44:46.345 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1074ms
+03:44:46.345 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":415075,"collission":false,"userId":46387139,"lastTickle":1591040686197,"iserver":{"result":{"status":"ok"}}}
+03:45:16.324 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1045ms
+03:45:16.324 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":385101,"collission":false,"userId":46387139,"lastTickle":1591040716171,"iserver":{"result":{"status":"ok"}}}
+03:45:46.368 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1087ms
+03:45:46.368 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":355058,"collission":false,"userId":46387139,"lastTickle":1591040746214,"iserver":{"result":{"status":"ok"}}}
+03:46:16.261 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|979ms
+03:46:16.261 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":325162,"collission":false,"userId":46387139,"lastTickle":1591040776110,"iserver":{"result":{"status":"ok"}}}
+03:46:42.469 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/ping,200|1009ms
+03:46:42.469 INFO  vert.x-eventloop-thread-0 SsoService           : sso ping {"result": "true"}
+03:46:45.515 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|255ms
+03:46:45.515 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":295918,"collission":false,"userId":46387139,"lastTickle":1591040805354,"iserver":{"result":{"status":"ok"}}}
+03:46:48.977 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386&fields=31%2C55,200|257ms
+03:47:16.259 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|983ms
+03:47:16.260 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":265173,"collission":false,"userId":46387139,"lastTickle":1591040836099,"iserver":{"result":{"status":"ok"}}}
+03:47:46.326 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1048ms
+03:47:46.326 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":235115,"collission":false,"userId":46387139,"lastTickle":1591040866157,"iserver":{"result":{"status":"ok"}}}
+03:48:16.753 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1478ms
+03:48:16.753 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":204706,"collission":false,"userId":46387139,"lastTickle":1591040896566,"iserver":{"result":{"status":"ok"}}}
+03:48:33.627 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55,200|1089ms
+03:48:33.627 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+03:48:33.627 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+03:48:44.041 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55,200|1050ms
+03:48:44.041 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+03:48:44.041 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+03:48:45.523 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|262ms
+03:48:45.523 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":175922,"collission":false,"userId":46387139,"lastTickle":1591040925350,"iserver":{"result":{"status":"ok"}}}
+03:48:45.841 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55,200|262ms
+03:48:47.013 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55,200|263ms
+03:48:48.592 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55,200|264ms
+03:48:49.832 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55,200|264ms
+03:48:50.985 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55,200|265ms
+03:48:52.014 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55,200|262ms
+03:48:53.208 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55,200|266ms
+03:48:54.437 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55,200|262ms
+03:48:55.380 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55,200|265ms
+03:48:56.675 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55,200|264ms
+03:48:57.685 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55,200|268ms
+03:48:58.688 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55,200|263ms
+03:48:59.743 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55,200|262ms
+03:49:00.895 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55,200|264ms
+03:49:02.021 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55,200|264ms
+03:49:03.187 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55,200|265ms
+03:49:04.281 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55,200|265ms
+03:49:16.302 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1036ms
+03:49:16.303 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":145122,"collission":false,"userId":46387139,"lastTickle":1591040956150,"iserver":{"result":{"status":"ok"}}}
+03:49:46.305 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1041ms
+03:49:46.306 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":115114,"collission":false,"userId":46387139,"lastTickle":1591040986158,"iserver":{"result":{"status":"ok"}}}
+03:49:57.783 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/account/orders,200|1014ms
+03:49:57.783 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+03:49:57.783 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+03:50:16.300 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1033ms
+03:50:16.300 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":85118,"collission":false,"userId":46387139,"lastTickle":1591041016154,"iserver":{"result":{"status":"ok"}}}
+03:50:18.433 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/account,401|260ms
+03:50:31.640 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/account,401|1057ms
+03:50:31.640 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+03:50:31.641 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+03:50:46.306 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1039ms
+03:50:46.307 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":55109,"collission":false,"userId":46387139,"lastTickle":1591041046163,"iserver":{"result":{"status":"ok"}}}
+03:51:17.063 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1780ms
+03:51:17.063 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":24362,"collission":false,"userId":46387139,"lastTickle":1591041076910,"iserver":{"result":{"status":"ok"}}}
+03:51:42.509 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/ping,200|1059ms
+03:51:42.509 INFO  vert.x-eventloop-thread-0 SsoService           : sso ping {"result": "true"}
+03:51:45.532 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|271ms
+03:51:45.532 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":0,"collission":false,"userId":46387139,"lastTickle":1591041105371,"iserver":{"result":{"status":"ok"}}}
+03:52:16.700 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1419ms
+03:52:16.700 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":568843,"collission":false,"userId":46387139,"lastTickle":1591041136546,"iserver":{"result":{"status":"ok"}}}
+03:52:46.349 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1068ms
+03:52:46.350 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":539204,"collission":false,"userId":46387139,"lastTickle":1591041166185,"iserver":{"result":{"status":"ok"}}}
+03:53:16.302 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1019ms
+03:53:16.302 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":509242,"collission":false,"userId":46387139,"lastTickle":1591041196147,"iserver":{"result":{"status":"ok"}}}
+03:53:46.323 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1042ms
+03:53:46.323 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":479221,"collission":false,"userId":46387139,"lastTickle":1591041226168,"iserver":{"result":{"status":"ok"}}}
+03:54:16.305 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1022ms
+03:54:16.306 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":449232,"collission":false,"userId":46387139,"lastTickle":1591041256157,"iserver":{"result":{"status":"ok"}}}
+03:54:46.353 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1072ms
+03:54:46.353 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":419193,"collission":false,"userId":46387139,"lastTickle":1591041286196,"iserver":{"result":{"status":"ok"}}}
+03:55:16.360 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1090ms
+03:55:16.360 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":389189,"collission":false,"userId":46387139,"lastTickle":1591041316200,"iserver":{"result":{"status":"ok"}}}
+03:55:46.307 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1043ms
+03:55:46.307 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":359239,"collission":false,"userId":46387139,"lastTickle":1591041346150,"iserver":{"result":{"status":"ok"}}}
+03:56:16.318 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1050ms
+03:56:16.318 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":329230,"collission":false,"userId":46387139,"lastTickle":1591041376159,"iserver":{"result":{"status":"ok"}}}
+03:56:42.496 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/ping,200|1036ms
+03:56:42.496 INFO  vert.x-eventloop-thread-0 SsoService           : sso ping {"result": "true"}
+03:56:45.523 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|261ms
+03:56:45.523 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":300020,"collission":false,"userId":46387139,"lastTickle":1591041405369,"iserver":{"result":{"status":"ok"}}}
+03:57:16.333 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1049ms
+03:57:16.333 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":269216,"collission":false,"userId":46387139,"lastTickle":1591041436173,"iserver":{"result":{"status":"ok"}}}
+03:57:46.356 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1073ms
+03:57:46.356 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":239196,"collission":false,"userId":46387139,"lastTickle":1591041466193,"iserver":{"result":{"status":"ok"}}}
+03:58:16.325 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1045ms
+03:58:16.325 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":209231,"collission":false,"userId":46387139,"lastTickle":1591041496158,"iserver":{"result":{"status":"ok"}}}
+03:58:33.477 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55,200|1022ms
+03:58:33.477 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+03:58:33.477 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+03:58:36.821 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55,200|260ms
+03:58:38.612 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55,200|261ms
+03:58:39.728 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55,200|261ms
+03:58:40.755 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55,200|259ms
+03:58:41.909 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55,200|270ms
+03:58:44.135 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55,200|261ms
+03:58:45.519 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|258ms
+03:58:45.519 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":180035,"collission":false,"userId":46387139,"lastTickle":1591041525354,"iserver":{"result":{"status":"ok"}}}
+03:59:16.319 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1039ms
+03:59:16.319 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":149234,"collission":false,"userId":46387139,"lastTickle":1591041556155,"iserver":{"result":{"status":"ok"}}}
+03:59:46.275 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1002ms
+03:59:46.275 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":119282,"collission":false,"userId":46387139,"lastTickle":1591041586107,"iserver":{"result":{"status":"ok"}}}
+04:00:17.325 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|2043ms
+04:00:17.325 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":88249,"collission":false,"userId":46387139,"lastTickle":1591041617140,"iserver":{"result":{"status":"ok"}}}
+04:00:43.184 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55,200|1064ms
+04:00:43.184 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+04:00:43.185 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+04:00:45.529 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|268ms
+04:00:45.529 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":60039,"collission":false,"userId":46387139,"lastTickle":1591041645350,"iserver":{"result":{"status":"ok"}}}
+04:00:46.109 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55,200|271ms
+04:00:48.433 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55,200|268ms
+04:00:50.411 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55,200|267ms
+04:00:52.552 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55,200|270ms
+04:00:53.698 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55,200|268ms
+04:00:55.288 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55,200|268ms
+04:01:03.532 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55,200|993ms
+04:01:03.532 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+04:01:03.532 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+04:01:06.173 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55,200|252ms
+04:01:13.190 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55,200|1049ms
+04:01:13.191 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+04:01:13.191 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+04:01:15.525 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|265ms
+04:01:15.525 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":30046,"collission":false,"userId":46387139,"lastTickle":1591041675343,"iserver":{"result":{"status":"ok"}}}
+04:01:42.489 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/ping,200|1029ms
+04:01:42.489 INFO  vert.x-eventloop-thread-0 SsoService           : sso ping {"result": "true"}
+04:01:45.520 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|260ms
+04:01:45.520 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":49,"collission":false,"userId":46387139,"lastTickle":1591041705340,"iserver":{"result":{"status":"ok"}}}
+04:01:59.327 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55,200|991ms
+04:01:59.327 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+04:01:59.327 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+04:02:16.283 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1014ms
+04:02:16.283 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":0,"collission":false,"userId":46387139,"lastTickle":1591041736115,"iserver":{"result":{"status":"ok"}}}
+04:02:46.307 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,401|1033ms
+04:02:46.307 WARN  vert.x-eventloop-thread-0 BaseServiceProxy     : failed /v1/api/tickle | reason Access Denied
+04:02:46.307 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle null
+04:02:46.307 ERROR vert.x-eventloop-thread-0 ClientPortalService  : tickle cp session failed {}
+io.vertx.core.impl.NoStackTraceThrowable: Access Denied
+04:02:46.307 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : cancel timer ClientPortalService 28
+04:02:46.307 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : forward event ON_CP_TICKLE_FAILED, payload none
+04:02:47.083 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/sso/validate?gw=1,401|776ms
+04:02:47.083 WARN  vert.x-eventloop-thread-0 BaseServiceProxy     : failed /v1/api/sso/validate?gw=1 | reason Access Denied
+04:02:47.083 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : portal validate response: null
+04:02:47.083 ERROR vert.x-eventloop-thread-0 GatewayHttpProxy     : authentication to cp failed, retry 1
+io.vertx.core.impl.NoStackTraceThrowable: Access Denied
+04:02:47.083 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : forward event CP_LOGIN_FAILED, payload none
+04:02:47.083 INFO  vert.x-eventloop-thread-0 GatewayHttpProxy     : Unhandled event CP_LOGIN_FAILED
+04:02:50.359 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/sso/validate?gw=1,401|273ms
+04:02:50.359 WARN  vert.x-eventloop-thread-0 BaseServiceProxy     : failed /v1/api/sso/validate?gw=1 | reason Access Denied
+04:02:50.359 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : portal validate response: null
+04:02:50.360 ERROR vert.x-eventloop-thread-0 GatewayHttpProxy     : authentication to cp failed, retry 2
+io.vertx.core.impl.NoStackTraceThrowable: Access Denied
+04:02:50.360 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : forward event CP_LOGIN_FAILED, payload none
+04:02:50.360 INFO  vert.x-eventloop-thread-0 GatewayHttpProxy     : Unhandled event CP_LOGIN_FAILED
+04:02:53.632 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/sso/validate?gw=1,401|271ms
+04:02:53.632 WARN  vert.x-eventloop-thread-0 BaseServiceProxy     : failed /v1/api/sso/validate?gw=1 | reason Access Denied
+04:02:53.632 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : portal validate response: null
+04:02:53.633 ERROR vert.x-eventloop-thread-0 GatewayHttpProxy     : authentication to cp failed, retry 3
+io.vertx.core.impl.NoStackTraceThrowable: Access Denied
+04:02:53.633 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : forward event CP_LOGIN_FAILED, payload none
+04:02:53.633 INFO  vert.x-eventloop-thread-0 GatewayHttpProxy     : Unhandled event CP_LOGIN_FAILED
+04:02:56.907 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/sso/validate?gw=1,401|274ms
+04:02:56.908 WARN  vert.x-eventloop-thread-0 BaseServiceProxy     : failed /v1/api/sso/validate?gw=1 | reason Access Denied
+04:02:56.908 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : portal validate response: null
+04:02:56.908 ERROR vert.x-eventloop-thread-0 GatewayHttpProxy     : authentication to cp failed, retry 4
+io.vertx.core.impl.NoStackTraceThrowable: Access Denied
+04:02:56.909 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : forward event CP_LOGIN_FAILED, payload none
+04:02:56.909 INFO  vert.x-eventloop-thread-0 GatewayHttpProxy     : Unhandled event CP_LOGIN_FAILED
+04:03:00.182 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/sso/validate?gw=1,401|270ms
+04:03:00.182 WARN  vert.x-eventloop-thread-0 BaseServiceProxy     : failed /v1/api/sso/validate?gw=1 | reason Access Denied
+04:03:00.182 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : portal validate response: null
+04:03:00.182 ERROR vert.x-eventloop-thread-0 GatewayHttpProxy     : authentication to cp failed, retry 5
+io.vertx.core.impl.NoStackTraceThrowable: Access Denied
+04:03:00.182 ERROR vert.x-eventloop-thread-0 GatewayHttpProxy     : giving up ...
+04:03:00.182 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : forward event CP_LOGIN_FAILED, payload none
+04:03:00.182 INFO  vert.x-eventloop-thread-0 GatewayHttpProxy     : Unhandled event CP_LOGIN_FAILED
+04:04:24.458 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55,401|1020ms
+04:04:24.458 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+04:04:24.458 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+04:04:50.992 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/auth/status,401|1070ms
+04:04:50.992 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+04:04:50.993 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+04:04:55.885 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/Login?forwardTo=22&RL=1&ip2loc=US,200|276ms
+04:04:55.885 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [XYZAB_AM.LOGIN=""; Domain=.ibkr.com; Path=/, XYZAB=""; Domain=.ibkr.com; Path=/, URL_PARAM="forwardTo=22&RL=1&ip2loc=US"; Version=1; Domain=.ibkr.com; Path=/, RL=1; Domain=.ibkr.com; Path=/, JSESSIONID=A56D4DB9399DC251657D0364AC1A10B0.ny5wwwdamsso1; Path=/sso; HttpOnly]
+04:04:55.885 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [XYZAB_AM.LOGIN=""; Domain=.ibkr.com; Path=/, XYZAB=""; Domain=.ibkr.com; Path=/, URL_PARAM="forwardTo=22&RL=1&ip2loc=US"; Version=1; Domain=.ibkr.com; Path=/, RL=1; Domain=.ibkr.com; Path=/, JSESSIONID=A56D4DB9399DC251657D0364AC1A10B0.ny5wwwdamsso1; Path=/sso; HttpOnly] -> 
+04:04:56.688 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/Templates/otp-responsive.css?1591041895733,200|738ms
+04:04:56.688 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+04:04:56.688 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+04:04:56.750 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/CombineFiles,200|794ms
+04:04:56.750 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+04:04:56.751 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+04:04:58.675 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /images/2015/template/logo-ib-ibkr-txtwht.svg,200|269ms
+04:05:02.408 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/Authenticator?85360,200|301ms
+04:05:06.634 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/Authenticator?74853,200|1024ms
+04:05:06.634 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+04:05:06.634 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+04:05:07.429 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/Authenticator?13855,200|778ms
+04:05:07.429 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+04:05:07.429 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+04:05:34.310 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/Authenticator?88547,200|945ms
+04:05:34.311 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+04:05:34.311 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+04:05:35.098 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /sso/Dispatcher,302|771ms
+04:05:35.099 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [USERID=46387139; Domain=.ibkr.com; Path=/, REGION=us; Domain=.ibkr.com; Path=/, BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+04:05:35.099 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [USERID=46387139; Domain=.ibkr.com; Path=/, REGION=us; Domain=.ibkr.com; Path=/, BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+04:05:35.100 INFO  vert.x-eventloop-thread-0 GatewayHttpProxy     : Client login succeeds
+04:05:35.101 INFO  vert.x-eventloop-thread-0 AmService            : authenticating with AM https://api.ibkr.com/AccountManagement/OneBarAuthentication?json=1
+04:05:35.881 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/sso/validate?gw=1,200|781ms
+04:05:35.882 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : portal validate response: {"SFT":"4.2","LOGIN_TYPE":1,"IS_PENDING_APPLICANT":false,"SF_ENABLED":true,"AUTH_TIME":1591041934049,"CREDENTIAL":"phav1989","SF_CONFIG":"4.2","USER_NAME":"phav1989","CREDENTIAL_TYPE":0,"RESULT":true,"IS_FREE_TRIAL":false,"IP":"116.14.238.9","USER_ID":46387139,"EXPIRES":1591041935737,"TOKEN":"de5fd1e55ccd50e18413c6b01e2c80934ad170cb"}
+04:05:35.882 INFO  vert.x-eventloop-thread-0 GatewayHttpProxy     : authenticated to cp
+04:05:35.883 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : cancel timer SsoService 26
+04:05:35.883 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : start timer 300000 SsoService
+04:05:35.910 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /AccountManagement/OneBarAuthentication?json=1,404|809ms
+04:05:35.910 WARN  vert.x-eventloop-thread-0 BaseServiceProxy     : failed /AccountManagement/OneBarAuthentication?json=1 | reason <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /AccountManagement/OneBarAuthentication was not found on this server.</p>
+<p>Additionally, a 404 Not Found
+error was encountered while trying to use an ErrorDocument to handle the request.</p>
+</body></html>
+
+04:05:35.911 ERROR vert.x-eventloop-thread-0 AmService            : am authentication failed
+io.vertx.core.impl.NoStackTraceThrowable: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /AccountManagement/OneBarAuthentication was not found on this server.</p>
+<p>Additionally, a 404 Not Found
+error was encountered while trying to use an ErrorDocument to handle the request.</p>
+</body></html>
+
+04:05:35.911 WARN  vert.x-eventloop-thread-0 BaseServiceProxy     : failed /AccountManagement/OneBarAuthentication?json=1 | reason 404
+04:05:35.911 ERROR vert.x-eventloop-thread-0 AmService            : am authentication failed
+io.vertx.core.impl.NoStackTraceThrowable: 404
+04:05:36.161 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/one/user,200|279ms
+04:05:36.161 INFO  vert.x-eventloop-thread-0 ClientPortalService  : get user reply {"ispaper":false,"islite":false,"has2fa":true,"username":"phav1989","features":{"env":"PROD","wlms":true,"realtime":true,"bond":true,"optionChains":true,"calendar":true,"aQA":true,"newMf":true},"applicants":[{"id":5246201,"type":"INDIVIDUAL","entityId":112074642,"businessType":"INDEPENDENT","legalCountry":{"name":"Singapore","alpha3":"SGP"},"nlcode":"en"}],"uar":{"portfolioAnalyst":true,"userInfo":true,"messageCenter":true,"accountDetails":true,"tradingRestrictions":false,"tws":true,"fyi":true,"voting":true,"forum":true,"recentTransactions":true},"accts":{"U3818550":{"clearingStatus":"O","openDate":1579410000000,"isFunded":true,"tradingPermissions":["FUND","IOPT","BILL","WAR","STK","BOND","CASH"],"isFAClient":false},"U3818550F":{"clearingStatus":"O","openDate":1588651200000,"isFunded":true,"tradingPermissions":["CFD","CMDTY"],"isFAClient":false}},"props":{"readOnlySession":null,"isIBAMClient":false},"firstApprovedDate":1579582800000}
+04:05:36.696 INFO  vert.x-eventloop-thread-0 SsoService           : sso init status=200, url=https://api.ibkr.com/sso/AuthenticateSSODH?ACTION=INIT
+04:05:36.697 DEBUG vert.x-eventloop-thread-0 SsoService           : sso init reponse: <ib_auth_res>
+<dh_params>
+<hash>SHA-1</hash>
+<p>b764b8cb777b5a1b08d171e1bd338e9d46e6bed629ae89a03ce9599eb947410f70d61ac6763044da91e519728167cd47491e9efdc760a69b9109415c5b5175a1</p>
+<g>a7fc1c405cddea5ef5594086514b5f43c1d69bd0a6db1dbb0bd6e23db3b5c7f4954f32332a294301f21889b470de9fc86934db52fc9715d117ebe1ebaaffecd5</g>
+<A>3dbd138cd684c141686ee18f7d7f9a2b05e8b910f566774b2d470016cbf3c5a4b1b0013475152c9a07704d8ad9beec5cd74439613df3a108cd1cdfb46ae7f8dd</A>
+<challenge>6247822444b0a429abd5712e555c3460bff5a395</challenge>
+<info></info>
+</dh_params>
+</ib_auth_res>
+
+04:05:36.697 DEBUG vert.x-eventloop-thread-0 SsoService           : p b764b8cb777b5a1b08d171e1bd338e9d46e6bed629ae89a03ce9599eb947410f70d61ac6763044da91e519728167cd47491e9efdc760a69b9109415c5b5175a1
+04:05:36.697 DEBUG vert.x-eventloop-thread-0 SsoService           : K a0805f079e8744890fa0330a9d998882aef3b34e
+04:05:36.698 DEBUG vert.x-eventloop-thread-0 SsoService           : chlRes 65429c000b6a16e2e7dc544dffa5cb5974f6c0a6
+04:05:36.698 DEBUG vert.x-eventloop-thread-0 SsoService           : B 6821fac535df89647441e9c824fa6d28d06d5c7da06d25b4fd282480a344996667b2ebbfbb71cf5aac64f83c2bf6b3ba1131c340a169d96333481018c85d76bf
+04:05:36.963 INFO  vert.x-eventloop-thread-0 SsoService           : sso complete url status=200, url=https://api.ibkr.com/sso/AuthenticateSSODH?ACTION=COMPLETE&B=6821fac535df89647441e9c824fa6d28d06d5c7da06d25b4fd282480a344996667b2ebbfbb71cf5aac64f83c2bf6b3ba1131c340a169d96333481018c85d76bf&CHRESPONSE=65429c000b6a16e2e7dc544dffa5cb5974f6c0a6
+04:05:36.964 DEBUG vert.x-eventloop-thread-0 SsoService           : challenge reply:
+<ib_auth_res>
+<dh_params>
+<enc>AES</enc>
+<einfo>-165a543c026e42f5c5b55f7631a7c01f</einfo>
+<info></info>
+</dh_params>
+</ib_auth_res>
+
+04:05:36.964 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : forward event ON_SSODH_COMPLETED, payload none
+04:05:36.964 DEBUG vert.x-eventloop-thread-0 GatewayHttpProxy     : delaying authentication for 3000
+04:05:40.237 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/iserver/auth/status,200|270ms
+04:05:40.237 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : status {"authenticated":false,"competing":false,"connected":false,"MAC":"48:DF:37:57:33:80"}
+04:05:40.238 INFO  vert.x-eventloop-thread-0 ClientPortalService  : process auth status {"authenticated":false,"competing":false,"connected":false,"MAC":"48:DF:37:57:33:80"}
+04:05:40.238 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : auth brokerage, k=a0805f079e8744890fa0330a9d998882aef3b34e, post={"username":"phav1989","machineId":"2025a67e","compete":true}
+04:05:41.136 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> POST https://api.ibkr.com/v1/api/iserver/auth/ssodh/init,200|897ms
+04:05:41.137 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : iserver init : {"challenge":"1b8e36b6c01007c92d421b89341e8a16d83d32b7"}
+04:05:41.137 INFO  vert.x-eventloop-thread-0 ClientPortalService  : sending sso dh response, k=2734ca8dda019cb5b29d9cb36899053667dfa394
+04:05:41.619 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> POST https://api.ibkr.com/v1/api/iserver/auth/ssodh/response,200|482ms
+04:05:41.619 INFO  vert.x-eventloop-thread-0 ClientPortalService  : server sso dh response {"passed":true,"authenticated":true,"connected":true,"competing":false}
+04:05:41.620 INFO  vert.x-eventloop-thread-0 ClientPortalService  : process auth status {"passed":true,"authenticated":true,"connected":true,"competing":false}
+04:05:41.620 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : start timer 30000 ClientPortalService
+04:05:41.878 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/iserver/accounts,200|258ms
+04:05:41.879 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : iserver accounts {"accounts":[],"acctProps":{},"aliases":{},"chartPeriods":null,"selectedAccount":null,"tradingPermissions":{},"allowFeatures":{"showGFIS":false,"snapshotRefreshTimeout":0,"liteUser":false,"showWebNews":false,"research":false,"showTaxOpt":false},"serverInfo":{}}
+04:05:50.374 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55,500|1016ms
+04:05:50.374 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+04:05:50.374 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+04:05:59.576 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/auth/status,200|797ms
+04:05:59.576 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+04:05:59.576 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+04:06:03.754 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55,200|271ms
+04:06:10.557 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55,200|1375ms
+04:06:10.557 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+04:06:10.557 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+04:06:11.881 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|259ms
+04:06:11.881 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":563990,"collission":false,"userId":46387139,"lastTickle":1591041971747,"iserver":{"result":{"status":"ok"}}}
+04:06:42.675 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1039ms
+04:06:42.675 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":533204,"collission":false,"userId":46387139,"lastTickle":1591042002533,"iserver":{"result":{"status":"ok"}}}
+04:06:43.942 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55,200|263ms
+04:07:12.650 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1008ms
+04:07:12.651 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":503219,"collission":false,"userId":46387139,"lastTickle":1591042032518,"iserver":{"result":{"status":"ok"}}}
+04:07:42.665 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1021ms
+04:07:42.666 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":473204,"collission":false,"userId":46387139,"lastTickle":1591042062533,"iserver":{"result":{"status":"ok"}}}
+04:07:50.479 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55,200|1036ms
+04:07:50.479 INFO  vert.x-eventloop-thread-0 CookieManager        : set cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly]
+04:07:50.479 DEBUG vert.x-eventloop-thread-0 BaseServiceProxy     : Remapping Set-cookies [BIGipServerdam.interactivebrokers.com_80_burrito_pool=291785994.20480.0000; path=/; Httponly] -> 
+04:08:12.673 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1036ms
+04:08:12.674 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":443203,"collission":false,"userId":46387139,"lastTickle":1591042092534,"iserver":{"result":{"status":"ok"}}}
+04:08:42.679 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1035ms
+04:08:42.680 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":413196,"collission":false,"userId":46387139,"lastTickle":1591042122541,"iserver":{"result":{"status":"ok"}}}
+04:09:12.696 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1052ms
+04:09:12.697 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":383178,"collission":false,"userId":46387139,"lastTickle":1591042152559,"iserver":{"result":{"status":"ok"}}}
+04:09:42.655 INFO  vert.x-eventloop-thread-0 BaseServiceProxy     : -> GET /v1/api/tickle,200|1011ms
+04:09:42.655 DEBUG vert.x-eventloop-thread-0 ClientPortalService  : tickle {"ssoExpires":353215,"collission":false,"userId":46387139,"lastTickle":1591042182522,"iserver":{"result":{"status":"ok"}}}

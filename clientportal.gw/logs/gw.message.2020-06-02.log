@@ -1,0 +1,868 @@
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1239ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1094ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1036ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1072ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1042ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1041ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1067ms
+-> request: /sso/ping
+-> GET /sso/ping,200|1060ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1037ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1063ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1051ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1020ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1049ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1941ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1408ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1023ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|988ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1158ms
+-> request: /sso/ping
+-> GET /sso/ping,200|1020ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1244ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1065ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1000ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1048ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1025ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1012ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1056ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1067ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1065ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1072ms
+-> request: /sso/ping
+-> GET /sso/ping,200|1022ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1021ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1017ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1046ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1028ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1058ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1121ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1079ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1095ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1001ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1069ms
+-> request: /sso/ping
+-> GET /sso/ping,200|1039ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1018ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1065ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1019ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1046ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1036ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1080ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1154ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1042ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1796ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1078ms
+-> request: /sso/ping
+-> GET /sso/ping,200|1024ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|993ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1297ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1262ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1179ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1923ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1380ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1197ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1301ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1434ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1227ms
+-> request: /sso/ping
+-> GET /sso/ping,200|1209ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1413ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1032ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1241ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1353ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1347ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1205ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1383ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1778ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|2196ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1382ms
+-> request: /sso/ping
+-> GET /sso/ping,200|1390ms
+-> request: /v1/api/tickle
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1283ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1243ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1149ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1316ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1408ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1222ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1192ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1420ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1220ms
+-> request: /sso/ping
+-> GET /sso/ping,200|1167ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1313ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1148ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1232ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1187ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1447ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1198ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1307ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1447ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1238ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1287ms
+-> request: /sso/ping
+-> GET /sso/ping,200|1343ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1460ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1232ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1331ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1025ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1145ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1328ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1440ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1193ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1333ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1428ms
+-> request: /sso/ping
+-> GET /sso/ping,200|1435ms
+-> request: /v1/api/tickle
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1184ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1430ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|2762ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1331ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|999ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1340ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1246ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1324ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1100ms
+-> request: /sso/ping
+-> GET /sso/ping,200|1468ms
+-> request: /v1/api/tickle
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1359ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|2396ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1209ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1379ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1464ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1061ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1329ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1475ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1282ms
+-> request: /sso/ping
+-> GET /sso/ping,200|1254ms
+-> request: /v1/api/tickle
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1786ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1301ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1384ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1048ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1070ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1089ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1022ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1095ms
+-> request: /v1/api/tickle
+-> request: /sso/ping
+-> GET /sso/ping,200|1374ms
+-> request: /v1/api/tickle
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,401|1307ms
+-> request: /v1/api/sso/validate?gw=1
+-> GET /v1/api/sso/validate?gw=1,200|3659ms
+-> request: /v1/api/one/user
+-> request: /sso/AuthenticateSSODH?ACTION=INIT
+-> sso GET https://api.ibkr.com/sso/AuthenticateSSODH?ACTION=INIT
+-> GET /v1/api/one/user,200|322ms
+-> request: /sso/AuthenticateSSODH?ACTION=COMPLETE&B=14ea2e8e11ec54ffc7714017ad21f4342bcaf7ebcb9ecd4b007a7567cb7193cc5761da4589aac8fbfdea71383c27a5e422c85ac37094323706618b807859855a&CHRESPONSE=f90dd1cd10f206e10a4c2e8a350ddc027c0148a5
+-> sso GET https://api.ibkr.com/sso/AuthenticateSSODH?ACTION=COMPLETE&B=14ea2e8e11ec54ffc7714017ad21f4342bcaf7ebcb9ecd4b007a7567cb7193cc5761da4589aac8fbfdea71383c27a5e422c85ac37094323706618b807859855a&CHRESPONSE=f90dd1cd10f206e10a4c2e8a350ddc027c0148a5
+-> request: /v1/api/iserver/auth/status
+-> GET /v1/api/iserver/auth/status,200|260ms
+-> request: /v1/api/iserver/auth/ssodh/init
+-> POST https://api.ibkr.com/v1/api/iserver/auth/ssodh/init,200|907ms
+-> request: /v1/api/iserver/auth/ssodh/response
+-> POST https://api.ibkr.com/v1/api/iserver/auth/ssodh/response,200|562ms
+-> request: /v1/api/iserver/accounts
+-> GET /v1/api/iserver/accounts,200|259ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1341ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1518ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1728ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1531ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1235ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1340ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1391ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1251ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1346ms
+-> request: /sso/ping
+-> GET /sso/ping,200|1420ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|265ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1254ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1038ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1109ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1881ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1368ms
+-> POST /v1/portal/iserver/auth/status
+<- 200 POST /v1/portal/iserver/auth/status
+-> POST /v1/portal/iserver/account/U3818550/order
+<- 400 POST /v1/portal/iserver/account/U3818550/order
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1158ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1271ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1379ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1065ms
+-> request: /sso/ping
+-> GET /sso/ping,200|1234ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|266ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,401|1356ms
+-> request: /v1/api/sso/validate?gw=1
+-> GET /v1/api/sso/validate?gw=1,401|919ms
+-> request: /v1/api/sso/validate?gw=1
+-> GET /v1/api/sso/validate?gw=1,401|291ms
+-> request: /v1/api/sso/validate?gw=1
+-> GET /v1/api/sso/validate?gw=1,401|460ms
+-> request: /v1/api/sso/validate?gw=1
+-> GET /v1/api/sso/validate?gw=1,401|285ms
+-> request: /v1/api/sso/validate?gw=1
+-> GET /v1/api/sso/validate?gw=1,401|470ms
+-> request: /sso/ping
+-> GET /sso/ping,200|1385ms
+-> request: /sso/ping
+-> GET /sso/ping,200|2342ms
+-> request: /sso/ping
+-> GET /sso/ping,200|1265ms
+-> request: /sso/ping
+-> GET /sso/ping,200|1391ms
+-> request: /sso/ping
+-> GET /sso/ping,200|1076ms
+-> request: /sso/ping
+-> GET /sso/ping,200|1906ms
+-> GET /v1/portal/iserver/marketdata/snapshot
+<- 401 GET /v1/portal/iserver/marketdata/snapshot
+-> POST /v1/portal/iserver/accounts
+<- 401 POST /v1/portal/iserver/accounts
+-> POST /v1/portal/iserver/accounts
+<- 401 POST /v1/portal/iserver/accounts
+-> GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+<- 200 GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+-> GET /stylesheet/web/ib-common.css
+-> GET /sso/Templates/otp-responsive.css?1591039652100
+-> GET /sso/CombineFiles
+<- 200 GET /sso/Templates/otp-responsive.css?1591039652100
+<- 200 GET /sso/CombineFiles
+<- 200 GET /stylesheet/web/ib-common.css
+-> GET /images/2015/template/logo-ib-ibkr-txtwht.svg
+-> GET /images/2015/template/logo-ib-ibkr-txtblk.svg
+<- 200 GET /images/2015/template/logo-ib-ibkr-txtwht.svg
+<- 200 GET /images/2015/template/logo-ib-ibkr-txtblk.svg
+-> POST /sso/Authenticator?83239
+<- 200 POST /sso/Authenticator?83239
+-> POST /sso/Authenticator?72404
+<- 200 POST /sso/Authenticator?72404
+-> POST /sso/Authenticator?79802
+<- 200 POST /sso/Authenticator?79802
+-> POST /sso/Authenticator?30784
+<- 200 POST /sso/Authenticator?30784
+-> POST /sso/Dispatcher
+<- 302 POST /sso/Dispatcher
+-> request: /v1/api/sso/validate?gw=1
+-> request: /AccountManagement/OneBarAuthentication?json=1
+-> GET /AccountManagement/OneBarAuthentication?json=1,404|918ms
+-> GET /v1/api/sso/validate?gw=1,200|921ms
+-> request: /v1/api/one/user
+-> request: /sso/AuthenticateSSODH?ACTION=INIT
+-> sso GET https://api.ibkr.com/sso/AuthenticateSSODH?ACTION=INIT
+-> GET /v1/api/one/user,200|610ms
+-> request: /sso/AuthenticateSSODH?ACTION=COMPLETE&B=9e51041171443bf5a7c9a81fc93a664578c46fa5a5ca6f5dfb431e29d48e7be96bfad5c18138d424183435aa3c12008baae6903096be27567d5b9183899801b4&CHRESPONSE=1168d68d60966195ddb2d24bb73f6cbbc3ef3db3
+-> sso GET https://api.ibkr.com/sso/AuthenticateSSODH?ACTION=COMPLETE&B=9e51041171443bf5a7c9a81fc93a664578c46fa5a5ca6f5dfb431e29d48e7be96bfad5c18138d424183435aa3c12008baae6903096be27567d5b9183899801b4&CHRESPONSE=1168d68d60966195ddb2d24bb73f6cbbc3ef3db3
+-> request: /v1/api/iserver/auth/status
+-> GET /v1/api/iserver/auth/status,200|362ms
+-> request: /v1/api/iserver/auth/ssodh/init
+-> POST https://api.ibkr.com/v1/api/iserver/auth/ssodh/init,200|920ms
+-> request: /v1/api/iserver/auth/ssodh/response
+-> POST https://api.ibkr.com/v1/api/iserver/auth/ssodh/response,200|511ms
+-> request: /v1/api/iserver/accounts
+-> POST /v1/portal/iserver/accounts
+<- 404 POST /v1/portal/iserver/accounts
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1394ms
+-> GET /v1/portal/sso/validate
+<- 200 GET /v1/portal/sso/validate
+-> GET /v1/portal/iserver/auth/status
+<- 200 GET /v1/portal/iserver/auth/status
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|313ms
+-> POST /v1/portal/iserver/accounts
+<- 404 POST /v1/portal/iserver/accounts
+-> POST /v1/portal/iserver/account
+<- 500 POST /v1/portal/iserver/account
+-> GET /v1/portal/iserver/accounts
+<- 200 GET /v1/portal/iserver/accounts
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1298ms
+-> GET /v1/portal/iserver/marketdata/snapshot
+<- 500 GET /v1/portal/iserver/marketdata/snapshot
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1136ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1239ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1640ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1376ms
+-> GET /v1/portal/iserver/marketdata/snapshot/265598
+<- 404 GET /v1/portal/iserver/marketdata/snapshot/265598
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1249ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1357ms
+-> GET /v1/portal/iserver/marketdata/snapshot/265598
+<- 403 GET /v1/portal/iserver/marketdata/snapshot/265598
+-> GET /v1/portal/iserver/marketdata/snapshot
+<- 403 GET /v1/portal/iserver/marketdata/snapshot
+-> GET /v1/portal/iserver/marketdata/snapshot
+<- 500 GET /v1/portal/iserver/marketdata/snapshot
+-> request: /sso/ping
+-> GET /sso/ping,200|1028ms
+-> request: /v1/api/tickle
+-> GET /v1/portal/iserver/marketdata/snapshot
+<- 403 GET /v1/portal/iserver/marketdata/snapshot
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1247ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1353ms
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1468ms
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C265598
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C265598
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|359ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1378ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1484ms
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31,55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31,55
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1291ms
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598,&fields=31,55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598,&fields=31,55
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1704ms
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598,107113386&fields=31,55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598,107113386&fields=31,55
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|581ms
+-> request: /sso/ping
+-> GET /sso/ping,200|1481ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|379ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,401|1355ms
+-> request: /v1/api/sso/validate?gw=1
+-> GET /v1/api/sso/validate?gw=1,401|916ms
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386&fields=31%2C55
+<- 401 GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386&fields=31%2C55
+-> request: /v1/api/sso/validate?gw=1
+-> GET /v1/api/sso/validate?gw=1,401|365ms
+-> request: /v1/api/sso/validate?gw=1
+-> GET /v1/api/sso/validate?gw=1,401|368ms
+-> request: /v1/api/sso/validate?gw=1
+-> GET /v1/api/sso/validate?gw=1,401|370ms
+-> request: /v1/api/sso/validate?gw=1
+-> GET /v1/api/sso/validate?gw=1,401|379ms
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386
+<- 401 GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386
+<- 401 GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598,%20107113386&fields=31,55
+<- 401 GET /v1/portal/iserver/marketdata/snapshot?conids=265598,%20107113386&fields=31,55
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598,107113386&fields=31,55
+<- 401 GET /v1/portal/iserver/marketdata/snapshot?conids=265598,107113386&fields=31,55
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31,55
+<- 401 GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31,55
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31
+<- 401 GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31
+-> GET /v1/portal/iserver/auth/status
+<- 401 GET /v1/portal/iserver/auth/status
+-> GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+<- 200 GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+-> GET /sso/Templates/otp-responsive.css?1591040465374
+-> GET /sso/CombineFiles
+-> GET /stylesheet/web/ib-common.css
+<- 200 GET /sso/CombineFiles
+<- 200 GET /sso/Templates/otp-responsive.css?1591040465374
+<- 304 GET /stylesheet/web/ib-common.css
+-> GET /images/2015/template/logo-ib-ibkr-txtwht.svg
+<- 200 GET /images/2015/template/logo-ib-ibkr-txtwht.svg
+-> POST /sso/Authenticator?70653
+<- 200 POST /sso/Authenticator?70653
+-> POST /sso/Authenticator?21598
+<- 200 POST /sso/Authenticator?21598
+-> POST /sso/Authenticator?21955
+<- 200 POST /sso/Authenticator?21955
+-> POST /sso/Authenticator?37499
+<- 200 POST /sso/Authenticator?37499
+-> POST /sso/Dispatcher
+<- 302 POST /sso/Dispatcher
+-> request: /v1/api/sso/validate?gw=1
+-> request: /AccountManagement/OneBarAuthentication?json=1
+-> GET /AccountManagement/OneBarAuthentication?json=1,404|778ms
+-> GET /v1/api/sso/validate?gw=1,200|810ms
+-> request: /v1/api/one/user
+-> request: /sso/AuthenticateSSODH?ACTION=INIT
+-> sso GET https://api.ibkr.com/sso/AuthenticateSSODH?ACTION=INIT
+-> GET /v1/api/one/user,200|260ms
+-> request: /sso/AuthenticateSSODH?ACTION=COMPLETE&B=a70347487995132dd51c6dd2bfb26f24a02b11af529d7f3cfb90dc23c8230bd7694d50c263942e648837cb7fe2813dd00c69eae5a759e0f679f524945ca8fb99&CHRESPONSE=4423303c5b8bf3afc8b7924f2364761920305b61
+-> sso GET https://api.ibkr.com/sso/AuthenticateSSODH?ACTION=COMPLETE&B=a70347487995132dd51c6dd2bfb26f24a02b11af529d7f3cfb90dc23c8230bd7694d50c263942e648837cb7fe2813dd00c69eae5a759e0f679f524945ca8fb99&CHRESPONSE=4423303c5b8bf3afc8b7924f2364761920305b61
+-> request: /v1/api/iserver/auth/status
+-> GET /v1/api/iserver/auth/status,200|258ms
+-> request: /v1/api/iserver/accounts
+-> GET /v1/api/iserver/accounts,200|257ms
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1034ms
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386&fields=31%2C55
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1045ms
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386&fields=31%2C55
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386&fields=31%2C55
+uri /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386&fields=31%2C55 failed
+io.vertx.core.VertxException: Connection was closed
+	at io.vertx.core.http.impl.ClientConnection.handleClosed(ClientConnection.java:406) ~[vertx-core-3.5.0.jar:na]
+	at io.vertx.core.impl.ContextImpl.lambda$wrapTask$2(ContextImpl.java:342) ~[vertx-core-3.5.0.jar:na]
+	at io.vertx.core.impl.ContextImpl.executeFromIO(ContextImpl.java:200) ~[vertx-core-3.5.0.jar:na]
+	at io.vertx.core.net.impl.VertxHandler.channelInactive(VertxHandler.java:134) ~[vertx-core-3.5.0.jar:na]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) ~[netty-transport-4.1.15.Final.jar:4.1.15.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) ~[netty-transport-4.1.15.Final.jar:4.1.15.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) ~[netty-transport-4.1.15.Final.jar:4.1.15.Final]
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelInactive(CombinedChannelDuplexHandler.java:420) ~[netty-transport-4.1.15.Final.jar:4.1.15.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:377) ~[netty-codec-4.1.15.Final.jar:4.1.15.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:342) ~[netty-codec-4.1.15.Final.jar:4.1.15.Final]
+	at io.netty.handler.codec.http.HttpClientCodec$Decoder.channelInactive(HttpClientCodec.java:281) ~[netty-codec-http-4.1.15.Final.jar:4.1.15.Final]
+	at io.netty.channel.CombinedChannelDuplexHandler.channelInactive(CombinedChannelDuplexHandler.java:223) ~[netty-transport-4.1.15.Final.jar:4.1.15.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) ~[netty-transport-4.1.15.Final.jar:4.1.15.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) ~[netty-transport-4.1.15.Final.jar:4.1.15.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) ~[netty-transport-4.1.15.Final.jar:4.1.15.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:377) ~[netty-codec-4.1.15.Final.jar:4.1.15.Final]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:342) ~[netty-codec-4.1.15.Final.jar:4.1.15.Final]
+	at io.netty.handler.ssl.SslHandler.channelInactive(SslHandler.java:978) ~[netty-handler-4.1.15.Final.jar:4.1.15.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) ~[netty-transport-4.1.15.Final.jar:4.1.15.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) ~[netty-transport-4.1.15.Final.jar:4.1.15.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:224) ~[netty-transport-4.1.15.Final.jar:4.1.15.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelInactive(DefaultChannelPipeline.java:1354) ~[netty-transport-4.1.15.Final.jar:4.1.15.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:245) ~[netty-transport-4.1.15.Final.jar:4.1.15.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:231) ~[netty-transport-4.1.15.Final.jar:4.1.15.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelInactive(DefaultChannelPipeline.java:917) ~[netty-transport-4.1.15.Final.jar:4.1.15.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:763) ~[netty-transport-4.1.15.Final.jar:4.1.15.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163) ~[netty-common-4.1.15.Final.jar:4.1.15.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:403) ~[netty-common-4.1.15.Final.jar:4.1.15.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:463) ~[netty-transport-4.1.15.Final.jar:4.1.15.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858) ~[netty-common-4.1.15.Final.jar:4.1.15.Final]
+	at java.lang.Thread.run(Thread.java:748) ~[na:1.8.0_252]
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386&fields=31%2C55
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386&fields=31%2C55
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386&fields=31%2C55
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386&fields=31%2C55
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386&fields=31%2C55
+-> request: /v1/api/tickle
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386&fields=31%2C55
+-> GET /v1/api/tickle,200|768ms
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386&fields=31%2C55
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386&fields=31%2C55
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386&fields=31%2C55
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386&fields=31%2C55
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386&fields=31%2C55
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1076ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1045ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1074ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1045ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1087ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|979ms
+-> request: /sso/ping
+-> GET /sso/ping,200|1009ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|255ms
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598%2C107113386&fields=31%2C55
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|983ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1048ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1478ms
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|262ms
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1036ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1041ms
+-> GET /v1/portal/iserver/account/orders
+<- 200 GET /v1/portal/iserver/account/orders
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1033ms
+-> POST /v1/portal/iserver/account
+<- 401 POST /v1/portal/iserver/account
+-> POST /v1/portal/iserver/account
+<- 401 POST /v1/portal/iserver/account
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1039ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1780ms
+-> request: /sso/ping
+-> GET /sso/ping,200|1059ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|271ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1419ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1068ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1019ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1042ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1022ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1072ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1090ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1043ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1050ms
+-> request: /sso/ping
+-> GET /sso/ping,200|1036ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|261ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1049ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1073ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1045ms
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|258ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1039ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1002ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|2043ms
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|268ms
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|265ms
+-> request: /sso/ping
+-> GET /sso/ping,200|1029ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|260ms
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1014ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,401|1033ms
+-> request: /v1/api/sso/validate?gw=1
+-> GET /v1/api/sso/validate?gw=1,401|776ms
+-> request: /v1/api/sso/validate?gw=1
+-> GET /v1/api/sso/validate?gw=1,401|273ms
+-> request: /v1/api/sso/validate?gw=1
+-> GET /v1/api/sso/validate?gw=1,401|271ms
+-> request: /v1/api/sso/validate?gw=1
+-> GET /v1/api/sso/validate?gw=1,401|274ms
+-> request: /v1/api/sso/validate?gw=1
+-> GET /v1/api/sso/validate?gw=1,401|270ms
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+<- 401 GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+-> GET /v1/portal/iserver/auth/status
+<- 401 GET /v1/portal/iserver/auth/status
+-> GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+<- 200 GET /sso/Login?forwardTo=22&RL=1&ip2loc=US
+-> GET /sso/Templates/otp-responsive.css?1591041895733
+-> GET /sso/CombineFiles
+<- 200 GET /sso/Templates/otp-responsive.css?1591041895733
+<- 200 GET /sso/CombineFiles
+-> GET /images/2015/template/logo-ib-ibkr-txtwht.svg
+<- 200 GET /images/2015/template/logo-ib-ibkr-txtwht.svg
+-> POST /sso/Authenticator?85360
+<- 200 POST /sso/Authenticator?85360
+-> POST /sso/Authenticator?74853
+<- 200 POST /sso/Authenticator?74853
+-> POST /sso/Authenticator?13855
+<- 200 POST /sso/Authenticator?13855
+-> POST /sso/Authenticator?88547
+<- 200 POST /sso/Authenticator?88547
+-> POST /sso/Dispatcher
+<- 302 POST /sso/Dispatcher
+-> request: /v1/api/sso/validate?gw=1
+-> request: /AccountManagement/OneBarAuthentication?json=1
+-> GET /v1/api/sso/validate?gw=1,200|781ms
+-> request: /v1/api/one/user
+-> request: /sso/AuthenticateSSODH?ACTION=INIT
+-> sso GET https://api.ibkr.com/sso/AuthenticateSSODH?ACTION=INIT
+-> GET /AccountManagement/OneBarAuthentication?json=1,404|809ms
+-> GET /v1/api/one/user,200|279ms
+-> request: /sso/AuthenticateSSODH?ACTION=COMPLETE&B=6821fac535df89647441e9c824fa6d28d06d5c7da06d25b4fd282480a344996667b2ebbfbb71cf5aac64f83c2bf6b3ba1131c340a169d96333481018c85d76bf&CHRESPONSE=65429c000b6a16e2e7dc544dffa5cb5974f6c0a6
+-> sso GET https://api.ibkr.com/sso/AuthenticateSSODH?ACTION=COMPLETE&B=6821fac535df89647441e9c824fa6d28d06d5c7da06d25b4fd282480a344996667b2ebbfbb71cf5aac64f83c2bf6b3ba1131c340a169d96333481018c85d76bf&CHRESPONSE=65429c000b6a16e2e7dc544dffa5cb5974f6c0a6
+-> request: /v1/api/iserver/auth/status
+-> GET /v1/api/iserver/auth/status,200|270ms
+-> request: /v1/api/iserver/auth/ssodh/init
+-> POST https://api.ibkr.com/v1/api/iserver/auth/ssodh/init,200|897ms
+-> request: /v1/api/iserver/auth/ssodh/response
+-> POST https://api.ibkr.com/v1/api/iserver/auth/ssodh/response,200|482ms
+-> request: /v1/api/iserver/accounts
+-> GET /v1/api/iserver/accounts,200|258ms
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+<- 500 GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+-> GET /v1/portal/iserver/auth/status
+<- 200 GET /v1/portal/iserver/auth/status
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|259ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1039ms
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1008ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1021ms
+-> GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+<- 200 GET /v1/portal/iserver/marketdata/snapshot?conids=265598&fields=31%2C55
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1036ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1035ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1052ms
+-> request: /v1/api/tickle
+-> GET /v1/api/tickle,200|1011ms
