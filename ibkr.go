@@ -52,7 +52,7 @@ type Order struct {
 	price             float64 // this is submitted price
 }
 
-var conidPath = "../data/conid.json"
+var conidPath = "conid.json"
 var conids = map[string]ConID{}
 
 var tr = &http.Transport{
